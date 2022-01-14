@@ -23,6 +23,9 @@ RUN apt-get -y install --no-install-recommends ant
 ENV JAVA_HOME /usr/lib/jvm/java-11-openjdk-amd64/
 RUN export JAVA_HOME
 
+RUN sudo mkdir /usr/lib/MLBaconNumber
+RUN sudo wget https://repos.spark-packages.org/graphframes/graphframes/0.8.1-spark3.0-s_2.12/graphframes-0.8.1-spark3.0-s_2.12.jar -O /usr/lib/MLBaconNumber/graphframes-0.8.1-spark3.0-s_2.12.jar
+
 # Clean up
 RUN apt-get autoremove -y \
     && apt-get clean -y \
