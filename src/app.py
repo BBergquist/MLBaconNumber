@@ -1,7 +1,8 @@
 from os.path import exists
 from pyspark import SparkConf
 from pyspark.context import SparkContext
-from pyspark.sql import Row, SparkSession, functions as f, types as t
+from pyspark.sql import Row, SparkSession, Window, \
+    functions as f, types as t
 from graphframes import GraphFrame
 import zstandard as zstd
 
@@ -68,29 +69,41 @@ def calculate_first_game_shortest_paths(mlb_graph):
 
 # Create a new graph (a tree) where the only edges are the shortest
 # paths between players to the first game
-def build_first_game_tree(spark, roster, first_game_paths):
-    roster_with_shortest_paths = add_shortest_paths_to_roster(
-        roster, first_game_paths)
-
+def build_first_game_tree(spark, roster, roster_with_shortest_paths):
     teammate_edges = get_shortest_path_edges(roster_with_shortest_paths)
+    w = Window.partitionBy("src").orderBy("team_id")
+    reduced_edges = teammate_edges.withColumn("row_num", f.row_number().over(w)) \
+                                  .where(f.col("row_num") == 1) \
+                                  .drop("row_num")
 
     vertices = (get_player_vertices(roster)
                 .unionAll(get_first_game_vertex(spark)))
-    edges = (teammate_edges
+    edges = (reduced_edges
              .unionAll(get_first_game_edges(spark)
-                       .withColumn("team_id", f.lit("HELPER"))))
+                       .withColumn("team_id", f.lit("PLAYED_IN"))))
     return GraphFrame(vertices, edges)
 
 
-# TODO: Add max_year in return DF
 def calculate_bacon_numbers(roster, shortest_path_tree):
     return (shortest_path_tree.shortestPaths(landmarks=["first_game"])
             .select(f.col("id").alias("player_id"),
                     (f.col("distances").getItem("first_game") - 1).alias("bacon_number"))
             .drop("distances")
             .join(roster, on="player_id", how="inner")
-            .select("player_id", "last_name", "first_name", "bacon_number")
-            .distinct())
+            .groupBy("player_id", "last_name", "first_name", "bacon_number")
+            .agg(f.max("year").alias("max_year")))
+
+
+def add_bacon_path(bacon_numbers, shortest_path_tree):
+    MAX_BACON_NUMBER = 9  # Previously calculated
+    df = bacon_numbers.withColumn("v0", f.col("player_id"))
+    for i in range(MAX_BACON_NUMBER + 1):
+        df = df.join(shortest_path_tree.edges,
+                     on=(f.col("v" + str(i)) == f.col("src")), how="leftouter") \
+            .withColumn("e" + str(i+1), f.col("team_id")) \
+            .withColumn("v" + str(i+1), f.col("dst")) \
+            .drop("src", "dst", "team_id")
+    return df
 
 
 def get_team_vertices(roster):
@@ -158,6 +171,10 @@ def get_shortest_path_edges(roster_shortest_paths):
             .agg(f.min("team_id").alias("team_id")))
 
 
+# TODO: Add code to take in output path and write regular CSV to that path
+# TODO: Get csv file with team codes + names
+# TODO: Explore CSV findings in Excel
+# TODO: Publish CSVs and findings
 compressed_roster = "data/roster.csv.zst"
 spark = create_sparksession()
 roster = get_roster(spark, compressed_roster)
@@ -165,9 +182,11 @@ roster = get_roster(spark, compressed_roster)
 mlb_graph = build_mlb_graph(spark, roster)
 first_game_paths = calculate_first_game_shortest_paths(mlb_graph)
 
-shortest_path_tree = build_first_game_tree(spark, roster, first_game_paths)
+roster_with_shortest_paths = add_shortest_paths_to_roster(
+    roster, first_game_paths)
+shortest_path_tree = build_first_game_tree(
+    spark, roster, roster_with_shortest_paths)
 bacon_numbers = calculate_bacon_numbers(roster, shortest_path_tree)
+bacon_numbers = add_bacon_path(bacon_numbers, shortest_path_tree)
 
 bacon_numbers.write.csv("/tmp/bacon_roster.csv", mode="overwrite", header=True)
-shortest_path_tree.vertices.write.parquet("/tmp/shortest_path_tree.v")
-shortest_path_tree.edges.write.parquet("/tmp/shortest_path_tree.e")
