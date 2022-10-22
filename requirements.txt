@@ -1,0 +1,4 @@
+pyspark
+graphframes
+zstandard
+ipykernel
