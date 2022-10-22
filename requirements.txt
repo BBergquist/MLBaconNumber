@@ -1,3 +1,4 @@
 pyspark
 graphframes
 zstandard
+ipykernel
