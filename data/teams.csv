@@ -1,0 +1,2956 @@
+team_id,year_id,name,lg_id
+BS11871,1871,Boston Red Stockings,NA
+CH11871,1871,Chicago White Stockings,NA
+CL11871,1871,Cleveland Forest Citys,NA
+FW11871,1871,Fort Wayne Kekiongas,NA
+NY21871,1871,New York Mutuals,NA
+PH11871,1871,Philadelphia Athletics,NA
+RC11871,1871,Rockford Forest Citys,NA
+TRO1871,1871,Troy Haymakers,NA
+WS31871,1871,Washington Olympics,NA
+BL11872,1872,Baltimore Canaries,NA
+BR11872,1872,Brooklyn Eckfords,NA
+BR21872,1872,Brooklyn Atlantics,NA
+BS11872,1872,Boston Red Stockings,NA
+CL11872,1872,Cleveland Forest Citys,NA
+MID1872,1872,Middletown Mansfields,NA
+NY21872,1872,New York Mutuals,NA
+PH11872,1872,Philadelphia Athletics,NA
+TRO1872,1872,Troy Haymakers,NA
+WS31872,1872,Washington Olympics,NA
+WS41872,1872,Washington Nationals,NA
+BL11873,1873,Baltimore Canaries,NA
+BL41873,1873,Baltimore Marylands,NA
+BR21873,1873,Brooklyn Atlantics,NA
+BS11873,1873,Boston Red Stockings,NA
+ELI1873,1873,Elizabeth Resolutes,NA
+NY21873,1873,New York Mutuals,NA
+PH11873,1873,Philadelphia Athletics,NA
+PH21873,1873,Philadelphia Whites,NA
+WS51873,1873,Washington Blue Legs,NA
+BL11874,1874,Baltimore Canaries,NA
+BR21874,1874,Brooklyn Atlantics,NA
+BS11874,1874,Boston Red Stockings,NA
+CH21874,1874,Chicago White Stockings,NA
+HR11874,1874,Hartford Dark Blues,NA
+NY21874,1874,New York Mutuals,NA
+PH11874,1874,Philadelphia Athletics,NA
+PH21874,1874,Philadelphia Whites,NA
+BR21875,1875,Brooklyn Atlantics,NA
+BS11875,1875,Boston Red Stockings,NA
+CH21875,1875,Chicago White Stockings,NA
+HR11875,1875,Hartford Dark Blues,NA
+KEO1875,1875,Keokuk Westerns,NA
+NH11875,1875,New Haven Elm Citys,NA
+NY21875,1875,New York Mutuals,NA
+PH11875,1875,Philadelphia Athletics,NA
+PH21875,1875,Philadelphia Whites,NA
+PH31875,1875,Philadelphia Centennials,NA
+SL11875,1875,St. Louis Red Stockings,NA
+SL21875,1875,St. Louis Brown Stockings,NA
+WS61875,1875,Washington Nationals,NA
+BSN1876,1876,Boston Red Caps,NL
+CHN1876,1876,Chicago White Stockings,NL
+CN11876,1876,Cincinnati Reds,NL
+HAR1876,1876,Hartford Dark Blues,NL
+LS11876,1876,Louisville Grays,NL
+NY31876,1876,New York Mutuals,NL
+PHN1876,1876,Philadelphia Athletics,NL
+SL31876,1876,St. Louis Brown Stockings,NL
+BSN1877,1877,Boston Red Caps,NL
+CHN1877,1877,Chicago White Stockings,NL
+CN11877,1877,Cincinnati Reds,NL
+HAR1877,1877,Hartford Dark Blues,NL
+LS11877,1877,Louisville Grays,NL
+SL31877,1877,St. Louis Brown Stockings,NL
+BSN1878,1878,Boston Red Caps,NL
+CHN1878,1878,Chicago White Stockings,NL
+CN11878,1878,Cincinnati Reds,NL
+IN11878,1878,Indianapolis Blues,NL
+ML21878,1878,Milwaukee Grays,NL
+PRO1878,1878,Providence Grays,NL
+BFN1879,1879,Buffalo Bisons,NL
+BSN1879,1879,Boston Red Caps,NL
+CHN1879,1879,Chicago White Stockings,NL
+CL21879,1879,Cleveland Blues,NL
+CN11879,1879,Cincinnati Reds,NL
+PRO1879,1879,Providence Grays,NL
+SR11879,1879,Syracuse Stars,NL
+TRN1879,1879,Troy Trojans,NL
+BFN1880,1880,Buffalo Bisons,NL
+BSN1880,1880,Boston Red Caps,NL
+CHN1880,1880,Chicago White Stockings,NL
+CL21880,1880,Cleveland Blues,NL
+CN41880,1880,Cincinnati Reds,NL
+PRO1880,1880,Providence Grays,NL
+TRN1880,1880,Troy Trojans,NL
+WOR1880,1880,Worcester Ruby Legs,NL
+BFN1881,1881,Buffalo Bisons,NL
+BSN1881,1881,Boston Red Caps,NL
+CHN1881,1881,Chicago White Stockings,NL
+CL21881,1881,Cleveland Blues,NL
+DTN1881,1881,Detroit Wolverines,NL
+PRO1881,1881,Providence Grays,NL
+TRN1881,1881,Troy Trojans,NL
+WOR1881,1881,Worcester Ruby Legs,NL
+BFN1882,1882,Buffalo Bisons,NL
+BL51882,1882,Baltimore Orioles,AA
+BSN1882,1882,Boston Red Caps,NL
+CHN1882,1882,Chicago White Stockings,NL
+CL21882,1882,Cleveland Blues,NL
+CN21882,1882,Cincinnati Red Stockings,AA
+DTN1882,1882,Detroit Wolverines,NL
+LS21882,1882,Louisville Eclipse,AA
+PH41882,1882,Philadelphia Athletics,AA
+PRO1882,1882,Providence Grays,NL
+PT11882,1882,Pittsburg Alleghenys,AA
+SL41882,1882,St. Louis Brown Stockings,AA
+TRN1882,1882,Troy Trojans,NL
+WOR1882,1882,Worcester Ruby Legs,NL
+BFN1883,1883,Buffalo Bisons,NL
+BL21883,1883,Baltimore Orioles,AA
+BSN1883,1883,Boston Beaneaters,NL
+CHN1883,1883,Chicago White Stockings,NL
+CL21883,1883,Cleveland Blues,NL
+CL51883,1883,Columbus Buckeyes,AA
+CN21883,1883,Cincinnati Red Stockings,AA
+DTN1883,1883,Detroit Wolverines,NL
+LS21883,1883,Louisville Eclipse,AA
+NY11883,1883,New York Gothams,NL
+NY41883,1883,New York Metropolitans,AA
+PH41883,1883,Philadelphia Athletics,AA
+PHI1883,1883,Philadelphia Quakers,NL
+PRO1883,1883,Providence Grays,NL
+PT11883,1883,Pittsburg Alleghenys,AA
+SL41883,1883,St. Louis Browns,AA
+ALT1884,1884,Altoona Mountain City,UA
+BFN1884,1884,Buffalo Bisons,NL
+BL21884,1884,Baltimore Orioles,AA
+BLU1884,1884,Baltimore Monumentals,UA
+BR31884,1884,Brooklyn Atlantics,AA
+BSN1884,1884,Boston Beaneaters,NL
+BSU1884,1884,Boston Reds,UA
+CHN1884,1884,Chicago White Stockings,NL
+CHU1884,1884,Chicago/Pittsburgh (Union League),UA
+CL21884,1884,Cleveland Blues,NL
+CL51884,1884,Columbus Buckeyes,AA
+CN21884,1884,Cincinnati Red Stockings,AA
+CNU1884,1884,Cincinnati Outlaw Reds,UA
+DTN1884,1884,Detroit Wolverines,NL
+IN21884,1884,Indianapolis Hoosiers,AA
+KCU1884,1884,Kansas City Cowboys,UA
+LS21884,1884,Louisville Eclipse,AA
+MLU1884,1884,Milwaukee Brewers,UA
+NY11884,1884,New York Gothams,NL
+NY41884,1884,New York Metropolitans,AA
+PH41884,1884,Philadelphia Athletics,AA
+PHI1884,1884,Philadelphia Quakers,NL
+PHU1884,1884,Philadelphia Keystones,UA
+PRO1884,1884,Providence Grays,NL
+PT11884,1884,Pittsburg Alleghenys,AA
+RIC1884,1884,Richmond Virginians,AA
+SL41884,1884,St. Louis Browns,AA
+SLU1884,1884,St. Louis Maroons,UA
+SPU1884,1884,St. Paul White Caps,UA
+TL11884,1884,Toledo Blue Stockings,AA
+WIL1884,1884,Wilmington Quicksteps,UA
+WS71884,1884,Washington Nationals,AA
+WSU1884,1884,Washington Nationals,UA
+BFN1885,1885,Buffalo Bisons,NL
+BL21885,1885,Baltimore Orioles,AA
+BR31885,1885,Brooklyn Grays,AA
+BSN1885,1885,Boston Beaneaters,NL
+CHN1885,1885,Chicago White Stockings,NL
+CN21885,1885,Cincinnati Red Stockings,AA
+DTN1885,1885,Detroit Wolverines,NL
+LS21885,1885,Louisville Colonels,AA
+NY11885,1885,New York Giants,NL
+NY41885,1885,New York Metropolitans,AA
+PH41885,1885,Philadelphia Athletics,AA
+PHI1885,1885,Philadelphia Quakers,NL
+PRO1885,1885,Providence Grays,NL
+PT11885,1885,Pittsburg Alleghenys,AA
+SL41885,1885,St. Louis Browns,AA
+SL51885,1885,St. Louis Maroons,NL
+BL21886,1886,Baltimore Orioles,AA
+BR31886,1886,Brooklyn Grays,AA
+BSN1886,1886,Boston Beaneaters,NL
+CHN1886,1886,Chicago White Stockings,NL
+CN21886,1886,Cincinnati Red Stockings,AA
+DTN1886,1886,Detroit Wolverines,NL
+KCN1886,1886,Kansas City Cowboys,NL
+LS21886,1886,Louisville Colonels,AA
+NY11886,1886,New York Giants,NL
+NY41886,1886,New York Metropolitans,AA
+PH41886,1886,Philadelphia Athletics,AA
+PHI1886,1886,Philadelphia Quakers,NL
+PT11886,1886,Pittsburg Alleghenys,AA
+SL41886,1886,St. Louis Browns,AA
+SL51886,1886,St. Louis Maroons,NL
+WS81886,1886,Washington Nationals,NL
+BL21887,1887,Baltimore Orioles,AA
+BR31887,1887,Brooklyn Grays,AA
+BSN1887,1887,Boston Beaneaters,NL
+CHN1887,1887,Chicago White Stockings,NL
+CL31887,1887,Cleveland Blues,AA
+CN21887,1887,Cincinnati Red Stockings,AA
+DTN1887,1887,Detroit Wolverines,NL
+IN31887,1887,Indianapolis Hoosiers,NL
+LS21887,1887,Louisville Colonels,AA
+NY11887,1887,New York Giants,NL
+NY41887,1887,New York Metropolitans,AA
+PH41887,1887,Philadelphia Athletics,AA
+PHI1887,1887,Philadelphia Quakers,NL
+PIT1887,1887,Pittsburg Alleghenys,NL
+SL41887,1887,St. Louis Browns,AA
+WS81887,1887,Washington Nationals,NL
+BL21888,1888,Baltimore Orioles,AA
+BR31888,1888,Brooklyn Bridegrooms,AA
+BSN1888,1888,Boston Beaneaters,NL
+CHN1888,1888,Chicago White Stockings,NL
+CL31888,1888,Cleveland Blues,AA
+CN21888,1888,Cincinnati Red Stockings,AA
+DTN1888,1888,Detroit Wolverines,NL
+IN31888,1888,Indianapolis Hoosiers,NL
+KC21888,1888,Kansas City Cowboys,AA
+LS21888,1888,Louisville Colonels,AA
+NY11888,1888,New York Giants,NL
+PH41888,1888,Philadelphia Athletics,AA
+PHI1888,1888,Philadelphia Quakers,NL
+PIT1888,1888,Pittsburg Alleghenys,NL
+SL41888,1888,St. Louis Browns,AA
+WS81888,1888,Washington Nationals,NL
+BL21889,1889,Baltimore Orioles,AA
+BR31889,1889,Brooklyn Bridegrooms,AA
+BSN1889,1889,Boston Beaneaters,NL
+CHN1889,1889,Chicago White Stockings,NL
+CL41889,1889,Cleveland Spiders,NL
+CL61889,1889,Columbus Solons,AA
+CN21889,1889,Cincinnati Red Stockings,AA
+IN31889,1889,Indianapolis Hoosiers,NL
+KC21889,1889,Kansas City Cowboys,AA
+LS21889,1889,Louisville Colonels,AA
+NY11889,1889,New York Giants,NL
+PH41889,1889,Philadelphia Athletics,AA
+PHI1889,1889,Philadelphia Quakers,NL
+PIT1889,1889,Pittsburg Alleghenys,NL
+SL41889,1889,St. Louis Browns,AA
+WS81889,1889,Washington Nationals,NL
+BFP1890,1890,Buffalo Bisons,PL
+BL31890,1890,Baltimore Orioles,AA
+BR41890,1890,Brooklyn Gladiators,AA
+BRO1890,1890,Brooklyn Bridegrooms,NL
+BRP1890,1890,Brooklyn Ward's Wonders,PL
+BSN1890,1890,Boston Beaneaters,NL
+BSP1890,1890,Boston Reds,PL
+CHN1890,1890,Chicago Colts,NL
+CHP1890,1890,Chicago Pirates,PL
+CIN1890,1890,Cincinnati Reds,NL
+CL41890,1890,Cleveland Spiders,NL
+CL61890,1890,Columbus Solons,AA
+CLP1890,1890,Cleveland Infants,PL
+LS21890,1890,Louisville Colonels,AA
+NY11890,1890,New York Giants,NL
+NYP1890,1890,New York Giants,PL
+PH41890,1890,Philadelphia Athletics,AA
+PHI1890,1890,Philadelphia Phillies,NL
+PHP1890,1890,Philadelphia Athletics,PL
+PIT1890,1890,Pittsburg Alleghenys,NL
+PTP1890,1890,Pittsburgh Burghers,PL
+RC21890,1890,Rochester Broncos,AA
+SL41890,1890,St. Louis Browns,AA
+SR21890,1890,Syracuse Stars,AA
+TL21890,1890,Toledo Maumees,AA
+BL31891,1891,Baltimore Orioles,AA
+BRO1891,1891,Brooklyn Grooms,NL
+BS21891,1891,Boston Reds,AA
+BSN1891,1891,Boston Beaneaters,NL
+CHN1891,1891,Chicago Colts,NL
+CIN1891,1891,Cincinnati Reds,NL
+CL41891,1891,Cleveland Spiders,NL
+CL61891,1891,Columbus Solons,AA
+CN31891,1891,Cincinnati Kelly's Killers,AA
+LS21891,1891,Louisville Colonels,AA
+ML31891,1891,Milwaukee Brewers,AA
+NY11891,1891,New York Giants,NL
+PH41891,1891,Philadelphia Athletics,AA
+PHI1891,1891,Philadelphia Phillies,NL
+PIT1891,1891,Pittsburgh Pirates,NL
+SL41891,1891,St. Louis Browns,AA
+WS91891,1891,Washington Statesmen,AA
+BLN1892,1892,Baltimore Orioles,NL
+BRO1892,1892,Brooklyn Grooms,NL
+BSN1892,1892,Boston Beaneaters,NL
+CHN1892,1892,Chicago Colts,NL
+CIN1892,1892,Cincinnati Reds,NL
+CL41892,1892,Cleveland Spiders,NL
+LS31892,1892,Louisville Colonels,NL
+NY11892,1892,New York Giants,NL
+PHI1892,1892,Philadelphia Phillies,NL
+PIT1892,1892,Pittsburgh Pirates,NL
+SLN1892,1892,St. Louis Browns,NL
+WSN1892,1892,Washington Senators,NL
+BLN1893,1893,Baltimore Orioles,NL
+BRO1893,1893,Brooklyn Grooms,NL
+BSN1893,1893,Boston Beaneaters,NL
+CHN1893,1893,Chicago Colts,NL
+CIN1893,1893,Cincinnati Reds,NL
+CL41893,1893,Cleveland Spiders,NL
+LS31893,1893,Louisville Colonels,NL
+NY11893,1893,New York Giants,NL
+PHI1893,1893,Philadelphia Phillies,NL
+PIT1893,1893,Pittsburgh Pirates,NL
+SLN1893,1893,St. Louis Browns,NL
+WSN1893,1893,Washington Senators,NL
+BLN1894,1894,Baltimore Orioles,NL
+BRO1894,1894,Brooklyn Grooms,NL
+BSN1894,1894,Boston Beaneaters,NL
+CHN1894,1894,Chicago Colts,NL
+CIN1894,1894,Cincinnati Reds,NL
+CL41894,1894,Cleveland Spiders,NL
+LS31894,1894,Louisville Colonels,NL
+NY11894,1894,New York Giants,NL
+PHI1894,1894,Philadelphia Phillies,NL
+PIT1894,1894,Pittsburgh Pirates,NL
+SLN1894,1894,St. Louis Browns,NL
+WSN1894,1894,Washington Senators,NL
+BLN1895,1895,Baltimore Orioles,NL
+BRO1895,1895,Brooklyn Grooms,NL
+BSN1895,1895,Boston Beaneaters,NL
+CHN1895,1895,Chicago Colts,NL
+CIN1895,1895,Cincinnati Reds,NL
+CL41895,1895,Cleveland Spiders,NL
+LS31895,1895,Louisville Colonels,NL
+NY11895,1895,New York Giants,NL
+PHI1895,1895,Philadelphia Phillies,NL
+PIT1895,1895,Pittsburgh Pirates,NL
+SLN1895,1895,St. Louis Browns,NL
+WSN1895,1895,Washington Senators,NL
+BLN1896,1896,Baltimore Orioles,NL
+BRO1896,1896,Brooklyn Bridegrooms,NL
+BSN1896,1896,Boston Beaneaters,NL
+CHN1896,1896,Chicago Colts,NL
+CIN1896,1896,Cincinnati Reds,NL
+CL41896,1896,Cleveland Spiders,NL
+LS31896,1896,Louisville Colonels,NL
+NY11896,1896,New York Giants,NL
+PHI1896,1896,Philadelphia Phillies,NL
+PIT1896,1896,Pittsburgh Pirates,NL
+SLN1896,1896,St. Louis Browns,NL
+WSN1896,1896,Washington Senators,NL
+BLN1897,1897,Baltimore Orioles,NL
+BRO1897,1897,Brooklyn Bridegrooms,NL
+BSN1897,1897,Boston Beaneaters,NL
+CHN1897,1897,Chicago Colts,NL
+CIN1897,1897,Cincinnati Reds,NL
+CL41897,1897,Cleveland Spiders,NL
+LS31897,1897,Louisville Colonels,NL
+NY11897,1897,New York Giants,NL
+PHI1897,1897,Philadelphia Phillies,NL
+PIT1897,1897,Pittsburgh Pirates,NL
+SLN1897,1897,St. Louis Browns,NL
+WSN1897,1897,Washington Senators,NL
+BLN1898,1898,Baltimore Orioles,NL
+BRO1898,1898,Brooklyn Bridegrooms,NL
+BSN1898,1898,Boston Beaneaters,NL
+CHN1898,1898,Chicago Orphans,NL
+CIN1898,1898,Cincinnati Reds,NL
+CL41898,1898,Cleveland Spiders,NL
+LS31898,1898,Louisville Colonels,NL
+NY11898,1898,New York Giants,NL
+PHI1898,1898,Philadelphia Phillies,NL
+PIT1898,1898,Pittsburgh Pirates,NL
+SLN1898,1898,St. Louis Browns,NL
+WSN1898,1898,Washington Senators,NL
+BLN1899,1899,Baltimore Orioles,NL
+BRO1899,1899,Brooklyn Superbas,NL
+BSN1899,1899,Boston Beaneaters,NL
+CHN1899,1899,Chicago Orphans,NL
+CIN1899,1899,Cincinnati Reds,NL
+CL41899,1899,Cleveland Spiders,NL
+LS31899,1899,Louisville Colonels,NL
+NY11899,1899,New York Giants,NL
+PHI1899,1899,Philadelphia Phillies,NL
+PIT1899,1899,Pittsburgh Pirates,NL
+SLN1899,1899,St. Louis Perfectos,NL
+WSN1899,1899,Washington Senators,NL
+BRO1900,1900,Brooklyn Superbas,NL
+BSN1900,1900,Boston Beaneaters,NL
+CHN1900,1900,Chicago Orphans,NL
+CIN1900,1900,Cincinnati Reds,NL
+NY11900,1900,New York Giants,NL
+PHI1900,1900,Philadelphia Phillies,NL
+PIT1900,1900,Pittsburgh Pirates,NL
+SLN1900,1900,St. Louis Cardinals,NL
+BLA1901,1901,Baltimore Orioles,AL
+BOS1901,1901,Boston Americans,AL
+BRO1901,1901,Brooklyn Superbas,NL
+BSN1901,1901,Boston Beaneaters,NL
+CHA1901,1901,Chicago White Sox,AL
+CHN1901,1901,Chicago Orphans,NL
+CIN1901,1901,Cincinnati Reds,NL
+CLE1901,1901,Cleveland Blues,AL
+DET1901,1901,Detroit Tigers,AL
+MLA1901,1901,Milwaukee Brewers,AL
+NY11901,1901,New York Giants,NL
+PHA1901,1901,Philadelphia Athletics,AL
+PHI1901,1901,Philadelphia Phillies,NL
+PIT1901,1901,Pittsburgh Pirates,NL
+SLN1901,1901,St. Louis Cardinals,NL
+WS11901,1901,Washington Senators,AL
+BLA1902,1902,Baltimore Orioles,AL
+BOS1902,1902,Boston Americans,AL
+BRO1902,1902,Brooklyn Superbas,NL
+BSN1902,1902,Boston Beaneaters,NL
+CHA1902,1902,Chicago White Sox,AL
+CHN1902,1902,Chicago Orphans,NL
+CIN1902,1902,Cincinnati Reds,NL
+CLE1902,1902,Cleveland Bronchos,AL
+DET1902,1902,Detroit Tigers,AL
+NY11902,1902,New York Giants,NL
+PHA1902,1902,Philadelphia Athletics,AL
+PHI1902,1902,Philadelphia Phillies,NL
+PIT1902,1902,Pittsburgh Pirates,NL
+SLA1902,1902,St. Louis Browns,AL
+SLN1902,1902,St. Louis Cardinals,NL
+WS11902,1902,Washington Senators,AL
+BOS1903,1903,Boston Americans,AL
+BRO1903,1903,Brooklyn Superbas,NL
+BSN1903,1903,Boston Beaneaters,NL
+CHA1903,1903,Chicago White Sox,AL
+CHN1903,1903,Chicago Cubs,NL
+CIN1903,1903,Cincinnati Reds,NL
+CLE1903,1903,Cleveland Naps,AL
+DET1903,1903,Detroit Tigers,AL
+NY11903,1903,New York Giants,NL
+NYA1903,1903,New York Highlanders,AL
+PHA1903,1903,Philadelphia Athletics,AL
+PHI1903,1903,Philadelphia Phillies,NL
+PIT1903,1903,Pittsburgh Pirates,NL
+SLA1903,1903,St. Louis Browns,AL
+SLN1903,1903,St. Louis Cardinals,NL
+WS11903,1903,Washington Senators,AL
+BOS1904,1904,Boston Americans,AL
+BRO1904,1904,Brooklyn Superbas,NL
+BSN1904,1904,Boston Beaneaters,NL
+CHA1904,1904,Chicago White Sox,AL
+CHN1904,1904,Chicago Cubs,NL
+CIN1904,1904,Cincinnati Reds,NL
+CLE1904,1904,Cleveland Naps,AL
+DET1904,1904,Detroit Tigers,AL
+NY11904,1904,New York Giants,NL
+NYA1904,1904,New York Highlanders,AL
+PHA1904,1904,Philadelphia Athletics,AL
+PHI1904,1904,Philadelphia Phillies,NL
+PIT1904,1904,Pittsburgh Pirates,NL
+SLA1904,1904,St. Louis Browns,AL
+SLN1904,1904,St. Louis Cardinals,NL
+WS11904,1904,Washington Senators,AL
+BOS1905,1905,Boston Americans,AL
+BRO1905,1905,Brooklyn Superbas,NL
+BSN1905,1905,Boston Beaneaters,NL
+CHA1905,1905,Chicago White Sox,AL
+CHN1905,1905,Chicago Cubs,NL
+CIN1905,1905,Cincinnati Reds,NL
+CLE1905,1905,Cleveland Naps,AL
+DET1905,1905,Detroit Tigers,AL
+NY11905,1905,New York Giants,NL
+NYA1905,1905,New York Highlanders,AL
+PHA1905,1905,Philadelphia Athletics,AL
+PHI1905,1905,Philadelphia Phillies,NL
+PIT1905,1905,Pittsburgh Pirates,NL
+SLA1905,1905,St. Louis Browns,AL
+SLN1905,1905,St. Louis Cardinals,NL
+WS11905,1905,Washington Senators,AL
+BOS1906,1906,Boston Americans,AL
+BRO1906,1906,Brooklyn Superbas,NL
+BSN1906,1906,Boston Beaneaters,NL
+CHA1906,1906,Chicago White Sox,AL
+CHN1906,1906,Chicago Cubs,NL
+CIN1906,1906,Cincinnati Reds,NL
+CLE1906,1906,Cleveland Naps,AL
+DET1906,1906,Detroit Tigers,AL
+NY11906,1906,New York Giants,NL
+NYA1906,1906,New York Highlanders,AL
+PHA1906,1906,Philadelphia Athletics,AL
+PHI1906,1906,Philadelphia Phillies,NL
+PIT1906,1906,Pittsburgh Pirates,NL
+SLA1906,1906,St. Louis Browns,AL
+SLN1906,1906,St. Louis Cardinals,NL
+WS11906,1906,Washington Senators,AL
+BOS1907,1907,Boston Americans,AL
+BRO1907,1907,Brooklyn Superbas,NL
+BSN1907,1907,Boston Doves,NL
+CHA1907,1907,Chicago White Sox,AL
+CHN1907,1907,Chicago Cubs,NL
+CIN1907,1907,Cincinnati Reds,NL
+CLE1907,1907,Cleveland Naps,AL
+DET1907,1907,Detroit Tigers,AL
+NY11907,1907,New York Giants,NL
+NYA1907,1907,New York Highlanders,AL
+PHA1907,1907,Philadelphia Athletics,AL
+PHI1907,1907,Philadelphia Phillies,NL
+PIT1907,1907,Pittsburgh Pirates,NL
+SLA1907,1907,St. Louis Browns,AL
+SLN1907,1907,St. Louis Cardinals,NL
+WS11907,1907,Washington Senators,AL
+BOS1908,1908,Boston Red Sox,AL
+BRO1908,1908,Brooklyn Superbas,NL
+BSN1908,1908,Boston Doves,NL
+CHA1908,1908,Chicago White Sox,AL
+CHN1908,1908,Chicago Cubs,NL
+CIN1908,1908,Cincinnati Reds,NL
+CLE1908,1908,Cleveland Naps,AL
+DET1908,1908,Detroit Tigers,AL
+NY11908,1908,New York Giants,NL
+NYA1908,1908,New York Highlanders,AL
+PHA1908,1908,Philadelphia Athletics,AL
+PHI1908,1908,Philadelphia Phillies,NL
+PIT1908,1908,Pittsburgh Pirates,NL
+SLA1908,1908,St. Louis Browns,AL
+SLN1908,1908,St. Louis Cardinals,NL
+WS11908,1908,Washington Senators,AL
+BOS1909,1909,Boston Red Sox,AL
+BRO1909,1909,Brooklyn Superbas,NL
+BSN1909,1909,Boston Doves,NL
+CHA1909,1909,Chicago White Sox,AL
+CHN1909,1909,Chicago Cubs,NL
+CIN1909,1909,Cincinnati Reds,NL
+CLE1909,1909,Cleveland Naps,AL
+DET1909,1909,Detroit Tigers,AL
+NY11909,1909,New York Giants,NL
+NYA1909,1909,New York Highlanders,AL
+PHA1909,1909,Philadelphia Athletics,AL
+PHI1909,1909,Philadelphia Phillies,NL
+PIT1909,1909,Pittsburgh Pirates,NL
+SLA1909,1909,St. Louis Browns,AL
+SLN1909,1909,St. Louis Cardinals,NL
+WS11909,1909,Washington Senators,AL
+BOS1910,1910,Boston Red Sox,AL
+BRO1910,1910,Brooklyn Superbas,NL
+BSN1910,1910,Boston Doves,NL
+CHA1910,1910,Chicago White Sox,AL
+CHN1910,1910,Chicago Cubs,NL
+CIN1910,1910,Cincinnati Reds,NL
+CLE1910,1910,Cleveland Naps,AL
+DET1910,1910,Detroit Tigers,AL
+NY11910,1910,New York Giants,NL
+NYA1910,1910,New York Highlanders,AL
+PHA1910,1910,Philadelphia Athletics,AL
+PHI1910,1910,Philadelphia Phillies,NL
+PIT1910,1910,Pittsburgh Pirates,NL
+SLA1910,1910,St. Louis Browns,AL
+SLN1910,1910,St. Louis Cardinals,NL
+WS11910,1910,Washington Senators,AL
+BOS1911,1911,Boston Red Sox,AL
+BRO1911,1911,Brooklyn Dodgers,NL
+BSN1911,1911,Boston Rustlers,NL
+CHA1911,1911,Chicago White Sox,AL
+CHN1911,1911,Chicago Cubs,NL
+CIN1911,1911,Cincinnati Reds,NL
+CLE1911,1911,Cleveland Naps,AL
+DET1911,1911,Detroit Tigers,AL
+NY11911,1911,New York Giants,NL
+NYA1911,1911,New York Highlanders,AL
+PHA1911,1911,Philadelphia Athletics,AL
+PHI1911,1911,Philadelphia Phillies,NL
+PIT1911,1911,Pittsburgh Pirates,NL
+SLA1911,1911,St. Louis Browns,AL
+SLN1911,1911,St. Louis Cardinals,NL
+WS11911,1911,Washington Senators,AL
+BOS1912,1912,Boston Red Sox,AL
+BRO1912,1912,Brooklyn Dodgers,NL
+BSN1912,1912,Boston Braves,NL
+CHA1912,1912,Chicago White Sox,AL
+CHN1912,1912,Chicago Cubs,NL
+CIN1912,1912,Cincinnati Reds,NL
+CLE1912,1912,Cleveland Naps,AL
+DET1912,1912,Detroit Tigers,AL
+NY11912,1912,New York Giants,NL
+NYA1912,1912,New York Highlanders,AL
+PHA1912,1912,Philadelphia Athletics,AL
+PHI1912,1912,Philadelphia Phillies,NL
+PIT1912,1912,Pittsburgh Pirates,NL
+SLA1912,1912,St. Louis Browns,AL
+SLN1912,1912,St. Louis Cardinals,NL
+WS11912,1912,Washington Senators,AL
+BOS1913,1913,Boston Red Sox,AL
+BRO1913,1913,Brooklyn Superbas,NL
+BSN1913,1913,Boston Braves,NL
+CHA1913,1913,Chicago White Sox,AL
+CHN1913,1913,Chicago Cubs,NL
+CIN1913,1913,Cincinnati Reds,NL
+CLE1913,1913,Cleveland Naps,AL
+DET1913,1913,Detroit Tigers,AL
+NY11913,1913,New York Giants,NL
+NYA1913,1913,New York Yankees,AL
+PHA1913,1913,Philadelphia Athletics,AL
+PHI1913,1913,Philadelphia Phillies,NL
+PIT1913,1913,Pittsburgh Pirates,NL
+SLA1913,1913,St. Louis Browns,AL
+SLN1913,1913,St. Louis Cardinals,NL
+WS11913,1913,Washington Senators,AL
+BLF1914,1914,Baltimore Terrapins,FL
+BOS1914,1914,Boston Red Sox,AL
+BRF1914,1914,Brooklyn Tip-Tops,FL
+BRO1914,1914,Brooklyn Robins,NL
+BSN1914,1914,Boston Braves,NL
+BUF1914,1914,Buffalo Buffeds,FL
+CHA1914,1914,Chicago White Sox,AL
+CHF1914,1914,Chicago Chi-Feds,FL
+CHN1914,1914,Chicago Cubs,NL
+CIN1914,1914,Cincinnati Reds,NL
+CLE1914,1914,Cleveland Naps,AL
+DET1914,1914,Detroit Tigers,AL
+IND1914,1914,Indianapolis Hoosiers,FL
+KCF1914,1914,Kansas City Packers,FL
+NY11914,1914,New York Giants,NL
+NYA1914,1914,New York Yankees,AL
+PHA1914,1914,Philadelphia Athletics,AL
+PHI1914,1914,Philadelphia Phillies,NL
+PIT1914,1914,Pittsburgh Pirates,NL
+PTF1914,1914,Pittsburgh Rebels,FL
+SLA1914,1914,St. Louis Browns,AL
+SLF1914,1914,St. Louis Terriers,FL
+SLN1914,1914,St. Louis Cardinals,NL
+WS11914,1914,Washington Senators,AL
+BLF1915,1915,Baltimore Terrapins,FL
+BOS1915,1915,Boston Red Sox,AL
+BRF1915,1915,Brooklyn Tip-Tops,FL
+BRO1915,1915,Brooklyn Robins,NL
+BSN1915,1915,Boston Braves,NL
+BUF1915,1915,Buffalo Blues,FL
+CHA1915,1915,Chicago White Sox,AL
+CHF1915,1915,Chicago Whales,FL
+CHN1915,1915,Chicago Cubs,NL
+CIN1915,1915,Cincinnati Reds,NL
+CLE1915,1915,Cleveland Indians,AL
+DET1915,1915,Detroit Tigers,AL
+KCF1915,1915,Kansas City Packers,FL
+NEW1915,1915,Newark Pepper,FL
+NY11915,1915,New York Giants,NL
+NYA1915,1915,New York Yankees,AL
+PHA1915,1915,Philadelphia Athletics,AL
+PHI1915,1915,Philadelphia Phillies,NL
+PIT1915,1915,Pittsburgh Pirates,NL
+PTF1915,1915,Pittsburgh Rebels,FL
+SLA1915,1915,St. Louis Browns,AL
+SLF1915,1915,St. Louis Terriers,FL
+SLN1915,1915,St. Louis Cardinals,NL
+WS11915,1915,Washington Senators,AL
+BOS1916,1916,Boston Red Sox,AL
+BRO1916,1916,Brooklyn Robins,NL
+BSN1916,1916,Boston Braves,NL
+CHA1916,1916,Chicago White Sox,AL
+CHN1916,1916,Chicago Cubs,NL
+CIN1916,1916,Cincinnati Reds,NL
+CLE1916,1916,Cleveland Indians,AL
+DET1916,1916,Detroit Tigers,AL
+NY11916,1916,New York Giants,NL
+NYA1916,1916,New York Yankees,AL
+PHA1916,1916,Philadelphia Athletics,AL
+PHI1916,1916,Philadelphia Phillies,NL
+PIT1916,1916,Pittsburgh Pirates,NL
+SLA1916,1916,St. Louis Browns,AL
+SLN1916,1916,St. Louis Cardinals,NL
+WS11916,1916,Washington Senators,AL
+BOS1917,1917,Boston Red Sox,AL
+BRO1917,1917,Brooklyn Robins,NL
+BSN1917,1917,Boston Braves,NL
+CHA1917,1917,Chicago White Sox,AL
+CHN1917,1917,Chicago Cubs,NL
+CIN1917,1917,Cincinnati Reds,NL
+CLE1917,1917,Cleveland Indians,AL
+DET1917,1917,Detroit Tigers,AL
+NY11917,1917,New York Giants,NL
+NYA1917,1917,New York Yankees,AL
+PHA1917,1917,Philadelphia Athletics,AL
+PHI1917,1917,Philadelphia Phillies,NL
+PIT1917,1917,Pittsburgh Pirates,NL
+SLA1917,1917,St. Louis Browns,AL
+SLN1917,1917,St. Louis Cardinals,NL
+WS11917,1917,Washington Senators,AL
+BOS1918,1918,Boston Red Sox,AL
+BRO1918,1918,Brooklyn Robins,NL
+BSN1918,1918,Boston Braves,NL
+CHA1918,1918,Chicago White Sox,AL
+CHN1918,1918,Chicago Cubs,NL
+CIN1918,1918,Cincinnati Reds,NL
+CLE1918,1918,Cleveland Indians,AL
+DET1918,1918,Detroit Tigers,AL
+NY11918,1918,New York Giants,NL
+NYA1918,1918,New York Yankees,AL
+PHA1918,1918,Philadelphia Athletics,AL
+PHI1918,1918,Philadelphia Phillies,NL
+PIT1918,1918,Pittsburgh Pirates,NL
+SLA1918,1918,St. Louis Browns,AL
+SLN1918,1918,St. Louis Cardinals,NL
+WS11918,1918,Washington Senators,AL
+BOS1919,1919,Boston Red Sox,AL
+BRO1919,1919,Brooklyn Robins,NL
+BSN1919,1919,Boston Braves,NL
+CHA1919,1919,Chicago White Sox,AL
+CHN1919,1919,Chicago Cubs,NL
+CIN1919,1919,Cincinnati Reds,NL
+CLE1919,1919,Cleveland Indians,AL
+DET1919,1919,Detroit Tigers,AL
+NY11919,1919,New York Giants,NL
+NYA1919,1919,New York Yankees,AL
+PHA1919,1919,Philadelphia Athletics,AL
+PHI1919,1919,Philadelphia Phillies,NL
+PIT1919,1919,Pittsburgh Pirates,NL
+SLA1919,1919,St. Louis Browns,AL
+SLN1919,1919,St. Louis Cardinals,NL
+WS11919,1919,Washington Senators,AL
+BOS1920,1920,Boston Red Sox,AL
+BRO1920,1920,Brooklyn Robins,NL
+BSN1920,1920,Boston Braves,NL
+CHA1920,1920,Chicago White Sox,AL
+CHN1920,1920,Chicago Cubs,NL
+CIN1920,1920,Cincinnati Reds,NL
+CLE1920,1920,Cleveland Indians,AL
+DET1920,1920,Detroit Tigers,AL
+NY11920,1920,New York Giants,NL
+NYA1920,1920,New York Yankees,AL
+PHA1920,1920,Philadelphia Athletics,AL
+PHI1920,1920,Philadelphia Phillies,NL
+PIT1920,1920,Pittsburgh Pirates,NL
+SLA1920,1920,St. Louis Browns,AL
+SLN1920,1920,St. Louis Cardinals,NL
+WS11920,1920,Washington Senators,AL
+BOS1921,1921,Boston Red Sox,AL
+BRO1921,1921,Brooklyn Robins,NL
+BSN1921,1921,Boston Braves,NL
+CHA1921,1921,Chicago White Sox,AL
+CHN1921,1921,Chicago Cubs,NL
+CIN1921,1921,Cincinnati Reds,NL
+CLE1921,1921,Cleveland Indians,AL
+DET1921,1921,Detroit Tigers,AL
+NY11921,1921,New York Giants,NL
+NYA1921,1921,New York Yankees,AL
+PHA1921,1921,Philadelphia Athletics,AL
+PHI1921,1921,Philadelphia Phillies,NL
+PIT1921,1921,Pittsburgh Pirates,NL
+SLA1921,1921,St. Louis Browns,AL
+SLN1921,1921,St. Louis Cardinals,NL
+WS11921,1921,Washington Senators,AL
+BOS1922,1922,Boston Red Sox,AL
+BRO1922,1922,Brooklyn Robins,NL
+BSN1922,1922,Boston Braves,NL
+CHA1922,1922,Chicago White Sox,AL
+CHN1922,1922,Chicago Cubs,NL
+CIN1922,1922,Cincinnati Reds,NL
+CLE1922,1922,Cleveland Indians,AL
+DET1922,1922,Detroit Tigers,AL
+NY11922,1922,New York Giants,NL
+NYA1922,1922,New York Yankees,AL
+PHA1922,1922,Philadelphia Athletics,AL
+PHI1922,1922,Philadelphia Phillies,NL
+PIT1922,1922,Pittsburgh Pirates,NL
+SLA1922,1922,St. Louis Browns,AL
+SLN1922,1922,St. Louis Cardinals,NL
+WS11922,1922,Washington Senators,AL
+BOS1923,1923,Boston Red Sox,AL
+BRO1923,1923,Brooklyn Robins,NL
+BSN1923,1923,Boston Braves,NL
+CHA1923,1923,Chicago White Sox,AL
+CHN1923,1923,Chicago Cubs,NL
+CIN1923,1923,Cincinnati Reds,NL
+CLE1923,1923,Cleveland Indians,AL
+DET1923,1923,Detroit Tigers,AL
+NY11923,1923,New York Giants,NL
+NYA1923,1923,New York Yankees,AL
+PHA1923,1923,Philadelphia Athletics,AL
+PHI1923,1923,Philadelphia Phillies,NL
+PIT1923,1923,Pittsburgh Pirates,NL
+SLA1923,1923,St. Louis Browns,AL
+SLN1923,1923,St. Louis Cardinals,NL
+WS11923,1923,Washington Senators,AL
+BOS1924,1924,Boston Red Sox,AL
+BRO1924,1924,Brooklyn Robins,NL
+BSN1924,1924,Boston Braves,NL
+CHA1924,1924,Chicago White Sox,AL
+CHN1924,1924,Chicago Cubs,NL
+CIN1924,1924,Cincinnati Reds,NL
+CLE1924,1924,Cleveland Indians,AL
+DET1924,1924,Detroit Tigers,AL
+NY11924,1924,New York Giants,NL
+NYA1924,1924,New York Yankees,AL
+PHA1924,1924,Philadelphia Athletics,AL
+PHI1924,1924,Philadelphia Phillies,NL
+PIT1924,1924,Pittsburgh Pirates,NL
+SLA1924,1924,St. Louis Browns,AL
+SLN1924,1924,St. Louis Cardinals,NL
+WS11924,1924,Washington Senators,AL
+BOS1925,1925,Boston Red Sox,AL
+BRO1925,1925,Brooklyn Robins,NL
+BSN1925,1925,Boston Braves,NL
+CHA1925,1925,Chicago White Sox,AL
+CHN1925,1925,Chicago Cubs,NL
+CIN1925,1925,Cincinnati Reds,NL
+CLE1925,1925,Cleveland Indians,AL
+DET1925,1925,Detroit Tigers,AL
+NY11925,1925,New York Giants,NL
+NYA1925,1925,New York Yankees,AL
+PHA1925,1925,Philadelphia Athletics,AL
+PHI1925,1925,Philadelphia Phillies,NL
+PIT1925,1925,Pittsburgh Pirates,NL
+SLA1925,1925,St. Louis Browns,AL
+SLN1925,1925,St. Louis Cardinals,NL
+WS11925,1925,Washington Senators,AL
+BOS1926,1926,Boston Red Sox,AL
+BRO1926,1926,Brooklyn Robins,NL
+BSN1926,1926,Boston Braves,NL
+CHA1926,1926,Chicago White Sox,AL
+CHN1926,1926,Chicago Cubs,NL
+CIN1926,1926,Cincinnati Reds,NL
+CLE1926,1926,Cleveland Indians,AL
+DET1926,1926,Detroit Tigers,AL
+NY11926,1926,New York Giants,NL
+NYA1926,1926,New York Yankees,AL
+PHA1926,1926,Philadelphia Athletics,AL
+PHI1926,1926,Philadelphia Phillies,NL
+PIT1926,1926,Pittsburgh Pirates,NL
+SLA1926,1926,St. Louis Browns,AL
+SLN1926,1926,St. Louis Cardinals,NL
+WS11926,1926,Washington Senators,AL
+BOS1927,1927,Boston Red Sox,AL
+BRO1927,1927,Brooklyn Robins,NL
+BSN1927,1927,Boston Braves,NL
+CHA1927,1927,Chicago White Sox,AL
+CHN1927,1927,Chicago Cubs,NL
+CIN1927,1927,Cincinnati Reds,NL
+CLE1927,1927,Cleveland Indians,AL
+DET1927,1927,Detroit Tigers,AL
+NY11927,1927,New York Giants,NL
+NYA1927,1927,New York Yankees,AL
+PHA1927,1927,Philadelphia Athletics,AL
+PHI1927,1927,Philadelphia Phillies,NL
+PIT1927,1927,Pittsburgh Pirates,NL
+SLA1927,1927,St. Louis Browns,AL
+SLN1927,1927,St. Louis Cardinals,NL
+WS11927,1927,Washington Senators,AL
+BOS1928,1928,Boston Red Sox,AL
+BRO1928,1928,Brooklyn Robins,NL
+BSN1928,1928,Boston Braves,NL
+CHA1928,1928,Chicago White Sox,AL
+CHN1928,1928,Chicago Cubs,NL
+CIN1928,1928,Cincinnati Reds,NL
+CLE1928,1928,Cleveland Indians,AL
+DET1928,1928,Detroit Tigers,AL
+NY11928,1928,New York Giants,NL
+NYA1928,1928,New York Yankees,AL
+PHA1928,1928,Philadelphia Athletics,AL
+PHI1928,1928,Philadelphia Phillies,NL
+PIT1928,1928,Pittsburgh Pirates,NL
+SLA1928,1928,St. Louis Browns,AL
+SLN1928,1928,St. Louis Cardinals,NL
+WS11928,1928,Washington Senators,AL
+BOS1929,1929,Boston Red Sox,AL
+BRO1929,1929,Brooklyn Robins,NL
+BSN1929,1929,Boston Braves,NL
+CHA1929,1929,Chicago White Sox,AL
+CHN1929,1929,Chicago Cubs,NL
+CIN1929,1929,Cincinnati Reds,NL
+CLE1929,1929,Cleveland Indians,AL
+DET1929,1929,Detroit Tigers,AL
+NY11929,1929,New York Giants,NL
+NYA1929,1929,New York Yankees,AL
+PHA1929,1929,Philadelphia Athletics,AL
+PHI1929,1929,Philadelphia Phillies,NL
+PIT1929,1929,Pittsburgh Pirates,NL
+SLA1929,1929,St. Louis Browns,AL
+SLN1929,1929,St. Louis Cardinals,NL
+WS11929,1929,Washington Senators,AL
+BOS1930,1930,Boston Red Sox,AL
+BRO1930,1930,Brooklyn Robins,NL
+BSN1930,1930,Boston Braves,NL
+CHA1930,1930,Chicago White Sox,AL
+CHN1930,1930,Chicago Cubs,NL
+CIN1930,1930,Cincinnati Reds,NL
+CLE1930,1930,Cleveland Indians,AL
+DET1930,1930,Detroit Tigers,AL
+NY11930,1930,New York Giants,NL
+NYA1930,1930,New York Yankees,AL
+PHA1930,1930,Philadelphia Athletics,AL
+PHI1930,1930,Philadelphia Phillies,NL
+PIT1930,1930,Pittsburgh Pirates,NL
+SLA1930,1930,St. Louis Browns,AL
+SLN1930,1930,St. Louis Cardinals,NL
+WS11930,1930,Washington Senators,AL
+BOS1931,1931,Boston Red Sox,AL
+BRO1931,1931,Brooklyn Robins,NL
+BSN1931,1931,Boston Braves,NL
+CHA1931,1931,Chicago White Sox,AL
+CHN1931,1931,Chicago Cubs,NL
+CIN1931,1931,Cincinnati Reds,NL
+CLE1931,1931,Cleveland Indians,AL
+DET1931,1931,Detroit Tigers,AL
+NY11931,1931,New York Giants,NL
+NYA1931,1931,New York Yankees,AL
+PHA1931,1931,Philadelphia Athletics,AL
+PHI1931,1931,Philadelphia Phillies,NL
+PIT1931,1931,Pittsburgh Pirates,NL
+SLA1931,1931,St. Louis Browns,AL
+SLN1931,1931,St. Louis Cardinals,NL
+WS11931,1931,Washington Senators,AL
+BOS1932,1932,Boston Red Sox,AL
+BRO1932,1932,Brooklyn Dodgers,NL
+BSN1932,1932,Boston Braves,NL
+CHA1932,1932,Chicago White Sox,AL
+CHN1932,1932,Chicago Cubs,NL
+CIN1932,1932,Cincinnati Reds,NL
+CLE1932,1932,Cleveland Indians,AL
+DET1932,1932,Detroit Tigers,AL
+NY11932,1932,New York Giants,NL
+NYA1932,1932,New York Yankees,AL
+PHA1932,1932,Philadelphia Athletics,AL
+PHI1932,1932,Philadelphia Phillies,NL
+PIT1932,1932,Pittsburgh Pirates,NL
+SLA1932,1932,St. Louis Browns,AL
+SLN1932,1932,St. Louis Cardinals,NL
+WS11932,1932,Washington Senators,AL
+BOS1933,1933,Boston Red Sox,AL
+BRO1933,1933,Brooklyn Dodgers,NL
+BSN1933,1933,Boston Braves,NL
+CHA1933,1933,Chicago White Sox,AL
+CHN1933,1933,Chicago Cubs,NL
+CIN1933,1933,Cincinnati Reds,NL
+CLE1933,1933,Cleveland Indians,AL
+DET1933,1933,Detroit Tigers,AL
+NY11933,1933,New York Giants,NL
+NYA1933,1933,New York Yankees,AL
+PHA1933,1933,Philadelphia Athletics,AL
+PHI1933,1933,Philadelphia Phillies,NL
+PIT1933,1933,Pittsburgh Pirates,NL
+SLA1933,1933,St. Louis Browns,AL
+SLN1933,1933,St. Louis Cardinals,NL
+WS11933,1933,Washington Senators,AL
+BOS1934,1934,Boston Red Sox,AL
+BRO1934,1934,Brooklyn Dodgers,NL
+BSN1934,1934,Boston Braves,NL
+CHA1934,1934,Chicago White Sox,AL
+CHN1934,1934,Chicago Cubs,NL
+CIN1934,1934,Cincinnati Reds,NL
+CLE1934,1934,Cleveland Indians,AL
+DET1934,1934,Detroit Tigers,AL
+NY11934,1934,New York Giants,NL
+NYA1934,1934,New York Yankees,AL
+PHA1934,1934,Philadelphia Athletics,AL
+PHI1934,1934,Philadelphia Phillies,NL
+PIT1934,1934,Pittsburgh Pirates,NL
+SLA1934,1934,St. Louis Browns,AL
+SLN1934,1934,St. Louis Cardinals,NL
+WS11934,1934,Washington Senators,AL
+BOS1935,1935,Boston Red Sox,AL
+BRO1935,1935,Brooklyn Dodgers,NL
+BSN1935,1935,Boston Braves,NL
+CHA1935,1935,Chicago White Sox,AL
+CHN1935,1935,Chicago Cubs,NL
+CIN1935,1935,Cincinnati Reds,NL
+CLE1935,1935,Cleveland Indians,AL
+DET1935,1935,Detroit Tigers,AL
+NY11935,1935,New York Giants,NL
+NYA1935,1935,New York Yankees,AL
+PHA1935,1935,Philadelphia Athletics,AL
+PHI1935,1935,Philadelphia Phillies,NL
+PIT1935,1935,Pittsburgh Pirates,NL
+SLA1935,1935,St. Louis Browns,AL
+SLN1935,1935,St. Louis Cardinals,NL
+WS11935,1935,Washington Senators,AL
+BOS1936,1936,Boston Red Sox,AL
+BRO1936,1936,Brooklyn Dodgers,NL
+BSN1936,1936,Boston Bees,NL
+CHA1936,1936,Chicago White Sox,AL
+CHN1936,1936,Chicago Cubs,NL
+CIN1936,1936,Cincinnati Reds,NL
+CLE1936,1936,Cleveland Indians,AL
+DET1936,1936,Detroit Tigers,AL
+NY11936,1936,New York Giants,NL
+NYA1936,1936,New York Yankees,AL
+PHA1936,1936,Philadelphia Athletics,AL
+PHI1936,1936,Philadelphia Phillies,NL
+PIT1936,1936,Pittsburgh Pirates,NL
+SLA1936,1936,St. Louis Browns,AL
+SLN1936,1936,St. Louis Cardinals,NL
+WS11936,1936,Washington Senators,AL
+BOS1937,1937,Boston Red Sox,AL
+BRO1937,1937,Brooklyn Dodgers,NL
+BSN1937,1937,Boston Bees,NL
+CHA1937,1937,Chicago White Sox,AL
+CHN1937,1937,Chicago Cubs,NL
+CIN1937,1937,Cincinnati Reds,NL
+CLE1937,1937,Cleveland Indians,AL
+DET1937,1937,Detroit Tigers,AL
+NY11937,1937,New York Giants,NL
+NYA1937,1937,New York Yankees,AL
+PHA1937,1937,Philadelphia Athletics,AL
+PHI1937,1937,Philadelphia Phillies,NL
+PIT1937,1937,Pittsburgh Pirates,NL
+SLA1937,1937,St. Louis Browns,AL
+SLN1937,1937,St. Louis Cardinals,NL
+WS11937,1937,Washington Senators,AL
+BOS1938,1938,Boston Red Sox,AL
+BRO1938,1938,Brooklyn Dodgers,NL
+BSN1938,1938,Boston Bees,NL
+CHA1938,1938,Chicago White Sox,AL
+CHN1938,1938,Chicago Cubs,NL
+CIN1938,1938,Cincinnati Reds,NL
+CLE1938,1938,Cleveland Indians,AL
+DET1938,1938,Detroit Tigers,AL
+NY11938,1938,New York Giants,NL
+NYA1938,1938,New York Yankees,AL
+PHA1938,1938,Philadelphia Athletics,AL
+PHI1938,1938,Philadelphia Phillies,NL
+PIT1938,1938,Pittsburgh Pirates,NL
+SLA1938,1938,St. Louis Browns,AL
+SLN1938,1938,St. Louis Cardinals,NL
+WS11938,1938,Washington Senators,AL
+BOS1939,1939,Boston Red Sox,AL
+BRO1939,1939,Brooklyn Dodgers,NL
+BSN1939,1939,Boston Bees,NL
+CHA1939,1939,Chicago White Sox,AL
+CHN1939,1939,Chicago Cubs,NL
+CIN1939,1939,Cincinnati Reds,NL
+CLE1939,1939,Cleveland Indians,AL
+DET1939,1939,Detroit Tigers,AL
+NY11939,1939,New York Giants,NL
+NYA1939,1939,New York Yankees,AL
+PHA1939,1939,Philadelphia Athletics,AL
+PHI1939,1939,Philadelphia Phillies,NL
+PIT1939,1939,Pittsburgh Pirates,NL
+SLA1939,1939,St. Louis Browns,AL
+SLN1939,1939,St. Louis Cardinals,NL
+WS11939,1939,Washington Senators,AL
+BOS1940,1940,Boston Red Sox,AL
+BRO1940,1940,Brooklyn Dodgers,NL
+BSN1940,1940,Boston Bees,NL
+CHA1940,1940,Chicago White Sox,AL
+CHN1940,1940,Chicago Cubs,NL
+CIN1940,1940,Cincinnati Reds,NL
+CLE1940,1940,Cleveland Indians,AL
+DET1940,1940,Detroit Tigers,AL
+NY11940,1940,New York Giants,NL
+NYA1940,1940,New York Yankees,AL
+PHA1940,1940,Philadelphia Athletics,AL
+PHI1940,1940,Philadelphia Phillies,NL
+PIT1940,1940,Pittsburgh Pirates,NL
+SLA1940,1940,St. Louis Browns,AL
+SLN1940,1940,St. Louis Cardinals,NL
+WS11940,1940,Washington Senators,AL
+BOS1941,1941,Boston Red Sox,AL
+BRO1941,1941,Brooklyn Dodgers,NL
+BSN1941,1941,Boston Braves,NL
+CHA1941,1941,Chicago White Sox,AL
+CHN1941,1941,Chicago Cubs,NL
+CIN1941,1941,Cincinnati Reds,NL
+CLE1941,1941,Cleveland Indians,AL
+DET1941,1941,Detroit Tigers,AL
+NY11941,1941,New York Giants,NL
+NYA1941,1941,New York Yankees,AL
+PHA1941,1941,Philadelphia Athletics,AL
+PHI1941,1941,Philadelphia Phillies,NL
+PIT1941,1941,Pittsburgh Pirates,NL
+SLA1941,1941,St. Louis Browns,AL
+SLN1941,1941,St. Louis Cardinals,NL
+WS11941,1941,Washington Senators,AL
+BOS1942,1942,Boston Red Sox,AL
+BRO1942,1942,Brooklyn Dodgers,NL
+BSN1942,1942,Boston Braves,NL
+CHA1942,1942,Chicago White Sox,AL
+CHN1942,1942,Chicago Cubs,NL
+CIN1942,1942,Cincinnati Reds,NL
+CLE1942,1942,Cleveland Indians,AL
+DET1942,1942,Detroit Tigers,AL
+NY11942,1942,New York Giants,NL
+NYA1942,1942,New York Yankees,AL
+PHA1942,1942,Philadelphia Athletics,AL
+PHI1942,1942,Philadelphia Phillies,NL
+PIT1942,1942,Pittsburgh Pirates,NL
+SLA1942,1942,St. Louis Browns,AL
+SLN1942,1942,St. Louis Cardinals,NL
+WS11942,1942,Washington Senators,AL
+BOS1943,1943,Boston Red Sox,AL
+BRO1943,1943,Brooklyn Dodgers,NL
+BSN1943,1943,Boston Braves,NL
+CHA1943,1943,Chicago White Sox,AL
+CHN1943,1943,Chicago Cubs,NL
+CIN1943,1943,Cincinnati Reds,NL
+CLE1943,1943,Cleveland Indians,AL
+DET1943,1943,Detroit Tigers,AL
+NY11943,1943,New York Giants,NL
+NYA1943,1943,New York Yankees,AL
+PHA1943,1943,Philadelphia Athletics,AL
+PHI1943,1943,Philadelphia Blue Jays,NL
+PIT1943,1943,Pittsburgh Pirates,NL
+SLA1943,1943,St. Louis Browns,AL
+SLN1943,1943,St. Louis Cardinals,NL
+WS11943,1943,Washington Senators,AL
+BOS1944,1944,Boston Red Sox,AL
+BRO1944,1944,Brooklyn Dodgers,NL
+BSN1944,1944,Boston Braves,NL
+CHA1944,1944,Chicago White Sox,AL
+CHN1944,1944,Chicago Cubs,NL
+CIN1944,1944,Cincinnati Reds,NL
+CLE1944,1944,Cleveland Indians,AL
+DET1944,1944,Detroit Tigers,AL
+NY11944,1944,New York Giants,NL
+NYA1944,1944,New York Yankees,AL
+PHA1944,1944,Philadelphia Athletics,AL
+PHI1944,1944,Philadelphia Blue Jays,NL
+PIT1944,1944,Pittsburgh Pirates,NL
+SLA1944,1944,St. Louis Browns,AL
+SLN1944,1944,St. Louis Cardinals,NL
+WS11944,1944,Washington Senators,AL
+BOS1945,1945,Boston Red Sox,AL
+BRO1945,1945,Brooklyn Dodgers,NL
+BSN1945,1945,Boston Braves,NL
+CHA1945,1945,Chicago White Sox,AL
+CHN1945,1945,Chicago Cubs,NL
+CIN1945,1945,Cincinnati Reds,NL
+CLE1945,1945,Cleveland Indians,AL
+DET1945,1945,Detroit Tigers,AL
+NY11945,1945,New York Giants,NL
+NYA1945,1945,New York Yankees,AL
+PHA1945,1945,Philadelphia Athletics,AL
+PHI1945,1945,Philadelphia Phillies,NL
+PIT1945,1945,Pittsburgh Pirates,NL
+SLA1945,1945,St. Louis Browns,AL
+SLN1945,1945,St. Louis Cardinals,NL
+WS11945,1945,Washington Senators,AL
+BOS1946,1946,Boston Red Sox,AL
+BRO1946,1946,Brooklyn Dodgers,NL
+BSN1946,1946,Boston Braves,NL
+CHA1946,1946,Chicago White Sox,AL
+CHN1946,1946,Chicago Cubs,NL
+CIN1946,1946,Cincinnati Reds,NL
+CLE1946,1946,Cleveland Indians,AL
+DET1946,1946,Detroit Tigers,AL
+NY11946,1946,New York Giants,NL
+NYA1946,1946,New York Yankees,AL
+PHA1946,1946,Philadelphia Athletics,AL
+PHI1946,1946,Philadelphia Phillies,NL
+PIT1946,1946,Pittsburgh Pirates,NL
+SLA1946,1946,St. Louis Browns,AL
+SLN1946,1946,St. Louis Cardinals,NL
+WS11946,1946,Washington Senators,AL
+BOS1947,1947,Boston Red Sox,AL
+BRO1947,1947,Brooklyn Dodgers,NL
+BSN1947,1947,Boston Braves,NL
+CHA1947,1947,Chicago White Sox,AL
+CHN1947,1947,Chicago Cubs,NL
+CIN1947,1947,Cincinnati Reds,NL
+CLE1947,1947,Cleveland Indians,AL
+DET1947,1947,Detroit Tigers,AL
+NY11947,1947,New York Giants,NL
+NYA1947,1947,New York Yankees,AL
+PHA1947,1947,Philadelphia Athletics,AL
+PHI1947,1947,Philadelphia Phillies,NL
+PIT1947,1947,Pittsburgh Pirates,NL
+SLA1947,1947,St. Louis Browns,AL
+SLN1947,1947,St. Louis Cardinals,NL
+WS11947,1947,Washington Senators,AL
+BOS1948,1948,Boston Red Sox,AL
+BRO1948,1948,Brooklyn Dodgers,NL
+BSN1948,1948,Boston Braves,NL
+CHA1948,1948,Chicago White Sox,AL
+CHN1948,1948,Chicago Cubs,NL
+CIN1948,1948,Cincinnati Reds,NL
+CLE1948,1948,Cleveland Indians,AL
+DET1948,1948,Detroit Tigers,AL
+NY11948,1948,New York Giants,NL
+NYA1948,1948,New York Yankees,AL
+PHA1948,1948,Philadelphia Athletics,AL
+PHI1948,1948,Philadelphia Phillies,NL
+PIT1948,1948,Pittsburgh Pirates,NL
+SLA1948,1948,St. Louis Browns,AL
+SLN1948,1948,St. Louis Cardinals,NL
+WS11948,1948,Washington Senators,AL
+BOS1949,1949,Boston Red Sox,AL
+BRO1949,1949,Brooklyn Dodgers,NL
+BSN1949,1949,Boston Braves,NL
+CHA1949,1949,Chicago White Sox,AL
+CHN1949,1949,Chicago Cubs,NL
+CIN1949,1949,Cincinnati Reds,NL
+CLE1949,1949,Cleveland Indians,AL
+DET1949,1949,Detroit Tigers,AL
+NY11949,1949,New York Giants,NL
+NYA1949,1949,New York Yankees,AL
+PHA1949,1949,Philadelphia Athletics,AL
+PHI1949,1949,Philadelphia Phillies,NL
+PIT1949,1949,Pittsburgh Pirates,NL
+SLA1949,1949,St. Louis Browns,AL
+SLN1949,1949,St. Louis Cardinals,NL
+WS11949,1949,Washington Senators,AL
+BOS1950,1950,Boston Red Sox,AL
+BRO1950,1950,Brooklyn Dodgers,NL
+BSN1950,1950,Boston Braves,NL
+CHA1950,1950,Chicago White Sox,AL
+CHN1950,1950,Chicago Cubs,NL
+CIN1950,1950,Cincinnati Reds,NL
+CLE1950,1950,Cleveland Indians,AL
+DET1950,1950,Detroit Tigers,AL
+NY11950,1950,New York Giants,NL
+NYA1950,1950,New York Yankees,AL
+PHA1950,1950,Philadelphia Athletics,AL
+PHI1950,1950,Philadelphia Phillies,NL
+PIT1950,1950,Pittsburgh Pirates,NL
+SLA1950,1950,St. Louis Browns,AL
+SLN1950,1950,St. Louis Cardinals,NL
+WS11950,1950,Washington Senators,AL
+BOS1951,1951,Boston Red Sox,AL
+BRO1951,1951,Brooklyn Dodgers,NL
+BSN1951,1951,Boston Braves,NL
+CHA1951,1951,Chicago White Sox,AL
+CHN1951,1951,Chicago Cubs,NL
+CIN1951,1951,Cincinnati Reds,NL
+CLE1951,1951,Cleveland Indians,AL
+DET1951,1951,Detroit Tigers,AL
+NY11951,1951,New York Giants,NL
+NYA1951,1951,New York Yankees,AL
+PHA1951,1951,Philadelphia Athletics,AL
+PHI1951,1951,Philadelphia Phillies,NL
+PIT1951,1951,Pittsburgh Pirates,NL
+SLA1951,1951,St. Louis Browns,AL
+SLN1951,1951,St. Louis Cardinals,NL
+WS11951,1951,Washington Senators,AL
+BOS1952,1952,Boston Red Sox,AL
+BRO1952,1952,Brooklyn Dodgers,NL
+BSN1952,1952,Boston Braves,NL
+CHA1952,1952,Chicago White Sox,AL
+CHN1952,1952,Chicago Cubs,NL
+CIN1952,1952,Cincinnati Reds,NL
+CLE1952,1952,Cleveland Indians,AL
+DET1952,1952,Detroit Tigers,AL
+NY11952,1952,New York Giants,NL
+NYA1952,1952,New York Yankees,AL
+PHA1952,1952,Philadelphia Athletics,AL
+PHI1952,1952,Philadelphia Phillies,NL
+PIT1952,1952,Pittsburgh Pirates,NL
+SLA1952,1952,St. Louis Browns,AL
+SLN1952,1952,St. Louis Cardinals,NL
+WS11952,1952,Washington Senators,AL
+BOS1953,1953,Boston Red Sox,AL
+BRO1953,1953,Brooklyn Dodgers,NL
+CHA1953,1953,Chicago White Sox,AL
+CHN1953,1953,Chicago Cubs,NL
+CIN1953,1953,Cincinnati Reds,NL
+CLE1953,1953,Cleveland Indians,AL
+DET1953,1953,Detroit Tigers,AL
+MLN1953,1953,Milwaukee Braves,NL
+NY11953,1953,New York Giants,NL
+NYA1953,1953,New York Yankees,AL
+PHA1953,1953,Philadelphia Athletics,AL
+PHI1953,1953,Philadelphia Phillies,NL
+PIT1953,1953,Pittsburgh Pirates,NL
+SLA1953,1953,St. Louis Browns,AL
+SLN1953,1953,St. Louis Cardinals,NL
+WS11953,1953,Washington Senators,AL
+BAL1954,1954,Baltimore Orioles,AL
+BOS1954,1954,Boston Red Sox,AL
+BRO1954,1954,Brooklyn Dodgers,NL
+CHA1954,1954,Chicago White Sox,AL
+CHN1954,1954,Chicago Cubs,NL
+CIN1954,1954,Cincinnati Redlegs,NL
+CLE1954,1954,Cleveland Indians,AL
+DET1954,1954,Detroit Tigers,AL
+MLN1954,1954,Milwaukee Braves,NL
+NY11954,1954,New York Giants,NL
+NYA1954,1954,New York Yankees,AL
+PHA1954,1954,Philadelphia Athletics,AL
+PHI1954,1954,Philadelphia Phillies,NL
+PIT1954,1954,Pittsburgh Pirates,NL
+SLN1954,1954,St. Louis Cardinals,NL
+WS11954,1954,Washington Senators,AL
+BAL1955,1955,Baltimore Orioles,AL
+BOS1955,1955,Boston Red Sox,AL
+BRO1955,1955,Brooklyn Dodgers,NL
+CHA1955,1955,Chicago White Sox,AL
+CHN1955,1955,Chicago Cubs,NL
+CIN1955,1955,Cincinnati Redlegs,NL
+CLE1955,1955,Cleveland Indians,AL
+DET1955,1955,Detroit Tigers,AL
+KC11955,1955,Kansas City Athletics,AL
+MLN1955,1955,Milwaukee Braves,NL
+NY11955,1955,New York Giants,NL
+NYA1955,1955,New York Yankees,AL
+PHI1955,1955,Philadelphia Phillies,NL
+PIT1955,1955,Pittsburgh Pirates,NL
+SLN1955,1955,St. Louis Cardinals,NL
+WS11955,1955,Washington Senators,AL
+BAL1956,1956,Baltimore Orioles,AL
+BOS1956,1956,Boston Red Sox,AL
+BRO1956,1956,Brooklyn Dodgers,NL
+CHA1956,1956,Chicago White Sox,AL
+CHN1956,1956,Chicago Cubs,NL
+CIN1956,1956,Cincinnati Redlegs,NL
+CLE1956,1956,Cleveland Indians,AL
+DET1956,1956,Detroit Tigers,AL
+KC11956,1956,Kansas City Athletics,AL
+MLN1956,1956,Milwaukee Braves,NL
+NY11956,1956,New York Giants,NL
+NYA1956,1956,New York Yankees,AL
+PHI1956,1956,Philadelphia Phillies,NL
+PIT1956,1956,Pittsburgh Pirates,NL
+SLN1956,1956,St. Louis Cardinals,NL
+WS11956,1956,Washington Senators,AL
+BAL1957,1957,Baltimore Orioles,AL
+BOS1957,1957,Boston Red Sox,AL
+BRO1957,1957,Brooklyn Dodgers,NL
+CHA1957,1957,Chicago White Sox,AL
+CHN1957,1957,Chicago Cubs,NL
+CIN1957,1957,Cincinnati Redlegs,NL
+CLE1957,1957,Cleveland Indians,AL
+DET1957,1957,Detroit Tigers,AL
+KC11957,1957,Kansas City Athletics,AL
+MLN1957,1957,Milwaukee Braves,NL
+NY11957,1957,New York Giants,NL
+NYA1957,1957,New York Yankees,AL
+PHI1957,1957,Philadelphia Phillies,NL
+PIT1957,1957,Pittsburgh Pirates,NL
+SLN1957,1957,St. Louis Cardinals,NL
+WS11957,1957,Washington Senators,AL
+BAL1958,1958,Baltimore Orioles,AL
+BOS1958,1958,Boston Red Sox,AL
+CHA1958,1958,Chicago White Sox,AL
+CHN1958,1958,Chicago Cubs,NL
+CIN1958,1958,Cincinnati Redlegs,NL
+CLE1958,1958,Cleveland Indians,AL
+DET1958,1958,Detroit Tigers,AL
+KC11958,1958,Kansas City Athletics,AL
+LAN1958,1958,Los Angeles Dodgers,NL
+MLN1958,1958,Milwaukee Braves,NL
+NYA1958,1958,New York Yankees,AL
+PHI1958,1958,Philadelphia Phillies,NL
+PIT1958,1958,Pittsburgh Pirates,NL
+SFN1958,1958,San Francisco Giants,NL
+SLN1958,1958,St. Louis Cardinals,NL
+WS11958,1958,Washington Senators,AL
+BAL1959,1959,Baltimore Orioles,AL
+BOS1959,1959,Boston Red Sox,AL
+CHA1959,1959,Chicago White Sox,AL
+CHN1959,1959,Chicago Cubs,NL
+CIN1959,1959,Cincinnati Redlegs,NL
+CLE1959,1959,Cleveland Indians,AL
+DET1959,1959,Detroit Tigers,AL
+KC11959,1959,Kansas City Athletics,AL
+LAN1959,1959,Los Angeles Dodgers,NL
+MLN1959,1959,Milwaukee Braves,NL
+NYA1959,1959,New York Yankees,AL
+PHI1959,1959,Philadelphia Phillies,NL
+PIT1959,1959,Pittsburgh Pirates,NL
+SFN1959,1959,San Francisco Giants,NL
+SLN1959,1959,St. Louis Cardinals,NL
+WS11959,1959,Washington Senators,AL
+BAL1960,1960,Baltimore Orioles,AL
+BOS1960,1960,Boston Red Sox,AL
+CHA1960,1960,Chicago White Sox,AL
+CHN1960,1960,Chicago Cubs,NL
+CIN1960,1960,Cincinnati Reds,NL
+CLE1960,1960,Cleveland Indians,AL
+DET1960,1960,Detroit Tigers,AL
+KC11960,1960,Kansas City Athletics,AL
+LAN1960,1960,Los Angeles Dodgers,NL
+MLN1960,1960,Milwaukee Braves,NL
+NYA1960,1960,New York Yankees,AL
+PHI1960,1960,Philadelphia Phillies,NL
+PIT1960,1960,Pittsburgh Pirates,NL
+SFN1960,1960,San Francisco Giants,NL
+SLN1960,1960,St. Louis Cardinals,NL
+WS11960,1960,Washington Senators,AL
+BAL1961,1961,Baltimore Orioles,AL
+BOS1961,1961,Boston Red Sox,AL
+CHA1961,1961,Chicago White Sox,AL
+CHN1961,1961,Chicago Cubs,NL
+CIN1961,1961,Cincinnati Reds,NL
+CLE1961,1961,Cleveland Indians,AL
+DET1961,1961,Detroit Tigers,AL
+KC11961,1961,Kansas City Athletics,AL
+LAA1961,1961,Los Angeles Angels,AL
+LAN1961,1961,Los Angeles Dodgers,NL
+MIN1961,1961,Minnesota Twins,AL
+MLN1961,1961,Milwaukee Braves,NL
+NYA1961,1961,New York Yankees,AL
+PHI1961,1961,Philadelphia Phillies,NL
+PIT1961,1961,Pittsburgh Pirates,NL
+SFN1961,1961,San Francisco Giants,NL
+SLN1961,1961,St. Louis Cardinals,NL
+WS21961,1961,Washington Senators,AL
+BAL1962,1962,Baltimore Orioles,AL
+BOS1962,1962,Boston Red Sox,AL
+CHA1962,1962,Chicago White Sox,AL
+CHN1962,1962,Chicago Cubs,NL
+CIN1962,1962,Cincinnati Reds,NL
+CLE1962,1962,Cleveland Indians,AL
+DET1962,1962,Detroit Tigers,AL
+HOU1962,1962,Houston Colt .45's,NL
+KC11962,1962,Kansas City Athletics,AL
+LAA1962,1962,Los Angeles Angels,AL
+LAN1962,1962,Los Angeles Dodgers,NL
+MIN1962,1962,Minnesota Twins,AL
+MLN1962,1962,Milwaukee Braves,NL
+NYA1962,1962,New York Yankees,AL
+NYN1962,1962,New York Mets,NL
+PHI1962,1962,Philadelphia Phillies,NL
+PIT1962,1962,Pittsburgh Pirates,NL
+SFN1962,1962,San Francisco Giants,NL
+SLN1962,1962,St. Louis Cardinals,NL
+WS21962,1962,Washington Senators,AL
+BAL1963,1963,Baltimore Orioles,AL
+BOS1963,1963,Boston Red Sox,AL
+CHA1963,1963,Chicago White Sox,AL
+CHN1963,1963,Chicago Cubs,NL
+CIN1963,1963,Cincinnati Reds,NL
+CLE1963,1963,Cleveland Indians,AL
+DET1963,1963,Detroit Tigers,AL
+HOU1963,1963,Houston Colt .45's,NL
+KC11963,1963,Kansas City Athletics,AL
+LAA1963,1963,Los Angeles Angels,AL
+LAN1963,1963,Los Angeles Dodgers,NL
+MIN1963,1963,Minnesota Twins,AL
+MLN1963,1963,Milwaukee Braves,NL
+NYA1963,1963,New York Yankees,AL
+NYN1963,1963,New York Mets,NL
+PHI1963,1963,Philadelphia Phillies,NL
+PIT1963,1963,Pittsburgh Pirates,NL
+SFN1963,1963,San Francisco Giants,NL
+SLN1963,1963,St. Louis Cardinals,NL
+WS21963,1963,Washington Senators,AL
+BAL1964,1964,Baltimore Orioles,AL
+BOS1964,1964,Boston Red Sox,AL
+CHA1964,1964,Chicago White Sox,AL
+CHN1964,1964,Chicago Cubs,NL
+CIN1964,1964,Cincinnati Reds,NL
+CLE1964,1964,Cleveland Indians,AL
+DET1964,1964,Detroit Tigers,AL
+HOU1964,1964,Houston Colt .45's,NL
+KC11964,1964,Kansas City Athletics,AL
+LAA1964,1964,Los Angeles Angels,AL
+LAN1964,1964,Los Angeles Dodgers,NL
+MIN1964,1964,Minnesota Twins,AL
+MLN1964,1964,Milwaukee Braves,NL
+NYA1964,1964,New York Yankees,AL
+NYN1964,1964,New York Mets,NL
+PHI1964,1964,Philadelphia Phillies,NL
+PIT1964,1964,Pittsburgh Pirates,NL
+SFN1964,1964,San Francisco Giants,NL
+SLN1964,1964,St. Louis Cardinals,NL
+WS21964,1964,Washington Senators,AL
+BAL1965,1965,Baltimore Orioles,AL
+BOS1965,1965,Boston Red Sox,AL
+CAL1965,1965,California Angels,AL
+CHA1965,1965,Chicago White Sox,AL
+CHN1965,1965,Chicago Cubs,NL
+CIN1965,1965,Cincinnati Reds,NL
+CLE1965,1965,Cleveland Indians,AL
+DET1965,1965,Detroit Tigers,AL
+HOU1965,1965,Houston Astros,NL
+KC11965,1965,Kansas City Athletics,AL
+LAN1965,1965,Los Angeles Dodgers,NL
+MIN1965,1965,Minnesota Twins,AL
+MLN1965,1965,Milwaukee Braves,NL
+NYA1965,1965,New York Yankees,AL
+NYN1965,1965,New York Mets,NL
+PHI1965,1965,Philadelphia Phillies,NL
+PIT1965,1965,Pittsburgh Pirates,NL
+SFN1965,1965,San Francisco Giants,NL
+SLN1965,1965,St. Louis Cardinals,NL
+WS21965,1965,Washington Senators,AL
+ATL1966,1966,Atlanta Braves,NL
+BAL1966,1966,Baltimore Orioles,AL
+BOS1966,1966,Boston Red Sox,AL
+CAL1966,1966,California Angels,AL
+CHA1966,1966,Chicago White Sox,AL
+CHN1966,1966,Chicago Cubs,NL
+CIN1966,1966,Cincinnati Reds,NL
+CLE1966,1966,Cleveland Indians,AL
+DET1966,1966,Detroit Tigers,AL
+HOU1966,1966,Houston Astros,NL
+KC11966,1966,Kansas City Athletics,AL
+LAN1966,1966,Los Angeles Dodgers,NL
+MIN1966,1966,Minnesota Twins,AL
+NYA1966,1966,New York Yankees,AL
+NYN1966,1966,New York Mets,NL
+PHI1966,1966,Philadelphia Phillies,NL
+PIT1966,1966,Pittsburgh Pirates,NL
+SFN1966,1966,San Francisco Giants,NL
+SLN1966,1966,St. Louis Cardinals,NL
+WS21966,1966,Washington Senators,AL
+ATL1967,1967,Atlanta Braves,NL
+BAL1967,1967,Baltimore Orioles,AL
+BOS1967,1967,Boston Red Sox,AL
+CAL1967,1967,California Angels,AL
+CHA1967,1967,Chicago White Sox,AL
+CHN1967,1967,Chicago Cubs,NL
+CIN1967,1967,Cincinnati Reds,NL
+CLE1967,1967,Cleveland Indians,AL
+DET1967,1967,Detroit Tigers,AL
+HOU1967,1967,Houston Astros,NL
+KC11967,1967,Kansas City Athletics,AL
+LAN1967,1967,Los Angeles Dodgers,NL
+MIN1967,1967,Minnesota Twins,AL
+NYA1967,1967,New York Yankees,AL
+NYN1967,1967,New York Mets,NL
+PHI1967,1967,Philadelphia Phillies,NL
+PIT1967,1967,Pittsburgh Pirates,NL
+SFN1967,1967,San Francisco Giants,NL
+SLN1967,1967,St. Louis Cardinals,NL
+WS21967,1967,Washington Senators,AL
+ATL1968,1968,Atlanta Braves,NL
+BAL1968,1968,Baltimore Orioles,AL
+BOS1968,1968,Boston Red Sox,AL
+CAL1968,1968,California Angels,AL
+CHA1968,1968,Chicago White Sox,AL
+CHN1968,1968,Chicago Cubs,NL
+CIN1968,1968,Cincinnati Reds,NL
+CLE1968,1968,Cleveland Indians,AL
+DET1968,1968,Detroit Tigers,AL
+HOU1968,1968,Houston Astros,NL
+LAN1968,1968,Los Angeles Dodgers,NL
+MIN1968,1968,Minnesota Twins,AL
+NYA1968,1968,New York Yankees,AL
+NYN1968,1968,New York Mets,NL
+OAK1968,1968,Oakland Athletics,AL
+PHI1968,1968,Philadelphia Phillies,NL
+PIT1968,1968,Pittsburgh Pirates,NL
+SFN1968,1968,San Francisco Giants,NL
+SLN1968,1968,St. Louis Cardinals,NL
+WS21968,1968,Washington Senators,AL
+ATL1969,1969,Atlanta Braves,NL
+BAL1969,1969,Baltimore Orioles,AL
+BOS1969,1969,Boston Red Sox,AL
+CAL1969,1969,California Angels,AL
+CHA1969,1969,Chicago White Sox,AL
+CHN1969,1969,Chicago Cubs,NL
+CIN1969,1969,Cincinnati Reds,NL
+CLE1969,1969,Cleveland Indians,AL
+DET1969,1969,Detroit Tigers,AL
+HOU1969,1969,Houston Astros,NL
+KCA1969,1969,Kansas City Royals,AL
+LAN1969,1969,Los Angeles Dodgers,NL
+MIN1969,1969,Minnesota Twins,AL
+MON1969,1969,Montreal Expos,NL
+NYA1969,1969,New York Yankees,AL
+NYN1969,1969,New York Mets,NL
+OAK1969,1969,Oakland Athletics,AL
+PHI1969,1969,Philadelphia Phillies,NL
+PIT1969,1969,Pittsburgh Pirates,NL
+SDN1969,1969,San Diego Padres,NL
+SE11969,1969,Seattle Pilots,AL
+SFN1969,1969,San Francisco Giants,NL
+SLN1969,1969,St. Louis Cardinals,NL
+WS21969,1969,Washington Senators,AL
+ATL1970,1970,Atlanta Braves,NL
+BAL1970,1970,Baltimore Orioles,AL
+BOS1970,1970,Boston Red Sox,AL
+CAL1970,1970,California Angels,AL
+CHA1970,1970,Chicago White Sox,AL
+CHN1970,1970,Chicago Cubs,NL
+CIN1970,1970,Cincinnati Reds,NL
+CLE1970,1970,Cleveland Indians,AL
+DET1970,1970,Detroit Tigers,AL
+HOU1970,1970,Houston Astros,NL
+KCA1970,1970,Kansas City Royals,AL
+LAN1970,1970,Los Angeles Dodgers,NL
+MIN1970,1970,Minnesota Twins,AL
+MIL1970,1970,Milwaukee Brewers,AL
+MON1970,1970,Montreal Expos,NL
+NYA1970,1970,New York Yankees,AL
+NYN1970,1970,New York Mets,NL
+OAK1970,1970,Oakland Athletics,AL
+PHI1970,1970,Philadelphia Phillies,NL
+PIT1970,1970,Pittsburgh Pirates,NL
+SDN1970,1970,San Diego Padres,NL
+SFN1970,1970,San Francisco Giants,NL
+SLN1970,1970,St. Louis Cardinals,NL
+WS21970,1970,Washington Senators,AL
+ATL1971,1971,Atlanta Braves,NL
+BAL1971,1971,Baltimore Orioles,AL
+BOS1971,1971,Boston Red Sox,AL
+CAL1971,1971,California Angels,AL
+CHA1971,1971,Chicago White Sox,AL
+CHN1971,1971,Chicago Cubs,NL
+CIN1971,1971,Cincinnati Reds,NL
+CLE1971,1971,Cleveland Indians,AL
+DET1971,1971,Detroit Tigers,AL
+HOU1971,1971,Houston Astros,NL
+KCA1971,1971,Kansas City Royals,AL
+LAN1971,1971,Los Angeles Dodgers,NL
+MIN1971,1971,Minnesota Twins,AL
+MIL1971,1971,Milwaukee Brewers,AL
+MON1971,1971,Montreal Expos,NL
+NYA1971,1971,New York Yankees,AL
+NYN1971,1971,New York Mets,NL
+OAK1971,1971,Oakland Athletics,AL
+PHI1971,1971,Philadelphia Phillies,NL
+PIT1971,1971,Pittsburgh Pirates,NL
+SDN1971,1971,San Diego Padres,NL
+SFN1971,1971,San Francisco Giants,NL
+SLN1971,1971,St. Louis Cardinals,NL
+WS21971,1971,Washington Senators,AL
+ATL1972,1972,Atlanta Braves,NL
+BAL1972,1972,Baltimore Orioles,AL
+BOS1972,1972,Boston Red Sox,AL
+CAL1972,1972,California Angels,AL
+CHA1972,1972,Chicago White Sox,AL
+CHN1972,1972,Chicago Cubs,NL
+CIN1972,1972,Cincinnati Reds,NL
+CLE1972,1972,Cleveland Indians,AL
+DET1972,1972,Detroit Tigers,AL
+HOU1972,1972,Houston Astros,NL
+KCA1972,1972,Kansas City Royals,AL
+LAN1972,1972,Los Angeles Dodgers,NL
+MIN1972,1972,Minnesota Twins,AL
+MIL1972,1972,Milwaukee Brewers,AL
+MON1972,1972,Montreal Expos,NL
+NYA1972,1972,New York Yankees,AL
+NYN1972,1972,New York Mets,NL
+OAK1972,1972,Oakland Athletics,AL
+PHI1972,1972,Philadelphia Phillies,NL
+PIT1972,1972,Pittsburgh Pirates,NL
+SDN1972,1972,San Diego Padres,NL
+SFN1972,1972,San Francisco Giants,NL
+SLN1972,1972,St. Louis Cardinals,NL
+TEX1972,1972,Texas Rangers,AL
+ATL1973,1973,Atlanta Braves,NL
+BAL1973,1973,Baltimore Orioles,AL
+BOS1973,1973,Boston Red Sox,AL
+CAL1973,1973,California Angels,AL
+CHA1973,1973,Chicago White Sox,AL
+CHN1973,1973,Chicago Cubs,NL
+CIN1973,1973,Cincinnati Reds,NL
+CLE1973,1973,Cleveland Indians,AL
+DET1973,1973,Detroit Tigers,AL
+HOU1973,1973,Houston Astros,NL
+KCA1973,1973,Kansas City Royals,AL
+LAN1973,1973,Los Angeles Dodgers,NL
+MIN1973,1973,Minnesota Twins,AL
+MIL1973,1973,Milwaukee Brewers,AL
+MON1973,1973,Montreal Expos,NL
+NYA1973,1973,New York Yankees,AL
+NYN1973,1973,New York Mets,NL
+OAK1973,1973,Oakland Athletics,AL
+PHI1973,1973,Philadelphia Phillies,NL
+PIT1973,1973,Pittsburgh Pirates,NL
+SDN1973,1973,San Diego Padres,NL
+SFN1973,1973,San Francisco Giants,NL
+SLN1973,1973,St. Louis Cardinals,NL
+TEX1973,1973,Texas Rangers,AL
+ATL1974,1974,Atlanta Braves,NL
+BAL1974,1974,Baltimore Orioles,AL
+BOS1974,1974,Boston Red Sox,AL
+CAL1974,1974,California Angels,AL
+CHA1974,1974,Chicago White Sox,AL
+CHN1974,1974,Chicago Cubs,NL
+CIN1974,1974,Cincinnati Reds,NL
+CLE1974,1974,Cleveland Indians,AL
+DET1974,1974,Detroit Tigers,AL
+HOU1974,1974,Houston Astros,NL
+KCA1974,1974,Kansas City Royals,AL
+LAN1974,1974,Los Angeles Dodgers,NL
+MIN1974,1974,Minnesota Twins,AL
+MIL1974,1974,Milwaukee Brewers,AL
+MON1974,1974,Montreal Expos,NL
+NYA1974,1974,New York Yankees,AL
+NYN1974,1974,New York Mets,NL
+OAK1974,1974,Oakland Athletics,AL
+PHI1974,1974,Philadelphia Phillies,NL
+PIT1974,1974,Pittsburgh Pirates,NL
+SDN1974,1974,San Diego Padres,NL
+SFN1974,1974,San Francisco Giants,NL
+SLN1974,1974,St. Louis Cardinals,NL
+TEX1974,1974,Texas Rangers,AL
+ATL1975,1975,Atlanta Braves,NL
+BAL1975,1975,Baltimore Orioles,AL
+BOS1975,1975,Boston Red Sox,AL
+CAL1975,1975,California Angels,AL
+CHA1975,1975,Chicago White Sox,AL
+CHN1975,1975,Chicago Cubs,NL
+CIN1975,1975,Cincinnati Reds,NL
+CLE1975,1975,Cleveland Indians,AL
+DET1975,1975,Detroit Tigers,AL
+HOU1975,1975,Houston Astros,NL
+KCA1975,1975,Kansas City Royals,AL
+LAN1975,1975,Los Angeles Dodgers,NL
+MIN1975,1975,Minnesota Twins,AL
+MIL1975,1975,Milwaukee Brewers,AL
+MON1975,1975,Montreal Expos,NL
+NYA1975,1975,New York Yankees,AL
+NYN1975,1975,New York Mets,NL
+OAK1975,1975,Oakland Athletics,AL
+PHI1975,1975,Philadelphia Phillies,NL
+PIT1975,1975,Pittsburgh Pirates,NL
+SDN1975,1975,San Diego Padres,NL
+SFN1975,1975,San Francisco Giants,NL
+SLN1975,1975,St. Louis Cardinals,NL
+TEX1975,1975,Texas Rangers,AL
+ATL1976,1976,Atlanta Braves,NL
+BAL1976,1976,Baltimore Orioles,AL
+BOS1976,1976,Boston Red Sox,AL
+CAL1976,1976,California Angels,AL
+CHA1976,1976,Chicago White Sox,AL
+CHN1976,1976,Chicago Cubs,NL
+CIN1976,1976,Cincinnati Reds,NL
+CLE1976,1976,Cleveland Indians,AL
+DET1976,1976,Detroit Tigers,AL
+HOU1976,1976,Houston Astros,NL
+KCA1976,1976,Kansas City Royals,AL
+LAN1976,1976,Los Angeles Dodgers,NL
+MIN1976,1976,Minnesota Twins,AL
+MIL1976,1976,Milwaukee Brewers,AL
+MON1976,1976,Montreal Expos,NL
+NYA1976,1976,New York Yankees,AL
+NYN1976,1976,New York Mets,NL
+OAK1976,1976,Oakland Athletics,AL
+PHI1976,1976,Philadelphia Phillies,NL
+PIT1976,1976,Pittsburgh Pirates,NL
+SDN1976,1976,San Diego Padres,NL
+SFN1976,1976,San Francisco Giants,NL
+SLN1976,1976,St. Louis Cardinals,NL
+TEX1976,1976,Texas Rangers,AL
+ATL1977,1977,Atlanta Braves,NL
+BAL1977,1977,Baltimore Orioles,AL
+BOS1977,1977,Boston Red Sox,AL
+CAL1977,1977,California Angels,AL
+CHA1977,1977,Chicago White Sox,AL
+CHN1977,1977,Chicago Cubs,NL
+CIN1977,1977,Cincinnati Reds,NL
+CLE1977,1977,Cleveland Indians,AL
+DET1977,1977,Detroit Tigers,AL
+HOU1977,1977,Houston Astros,NL
+KCA1977,1977,Kansas City Royals,AL
+LAN1977,1977,Los Angeles Dodgers,NL
+MIN1977,1977,Minnesota Twins,AL
+MIL1977,1977,Milwaukee Brewers,AL
+MON1977,1977,Montreal Expos,NL
+NYA1977,1977,New York Yankees,AL
+NYN1977,1977,New York Mets,NL
+OAK1977,1977,Oakland Athletics,AL
+PHI1977,1977,Philadelphia Phillies,NL
+PIT1977,1977,Pittsburgh Pirates,NL
+SDN1977,1977,San Diego Padres,NL
+SEA1977,1977,Seattle Mariners,AL
+SFN1977,1977,San Francisco Giants,NL
+SLN1977,1977,St. Louis Cardinals,NL
+TEX1977,1977,Texas Rangers,AL
+TOR1977,1977,Toronto Blue Jays,AL
+ATL1978,1978,Atlanta Braves,NL
+BAL1978,1978,Baltimore Orioles,AL
+BOS1978,1978,Boston Red Sox,AL
+CAL1978,1978,California Angels,AL
+CHA1978,1978,Chicago White Sox,AL
+CHN1978,1978,Chicago Cubs,NL
+CIN1978,1978,Cincinnati Reds,NL
+CLE1978,1978,Cleveland Indians,AL
+DET1978,1978,Detroit Tigers,AL
+HOU1978,1978,Houston Astros,NL
+KCA1978,1978,Kansas City Royals,AL
+LAN1978,1978,Los Angeles Dodgers,NL
+MIN1978,1978,Minnesota Twins,AL
+MIL1978,1978,Milwaukee Brewers,AL
+MON1978,1978,Montreal Expos,NL
+NYA1978,1978,New York Yankees,AL
+NYN1978,1978,New York Mets,NL
+OAK1978,1978,Oakland Athletics,AL
+PHI1978,1978,Philadelphia Phillies,NL
+PIT1978,1978,Pittsburgh Pirates,NL
+SDN1978,1978,San Diego Padres,NL
+SEA1978,1978,Seattle Mariners,AL
+SFN1978,1978,San Francisco Giants,NL
+SLN1978,1978,St. Louis Cardinals,NL
+TEX1978,1978,Texas Rangers,AL
+TOR1978,1978,Toronto Blue Jays,AL
+ATL1979,1979,Atlanta Braves,NL
+BAL1979,1979,Baltimore Orioles,AL
+BOS1979,1979,Boston Red Sox,AL
+CAL1979,1979,California Angels,AL
+CHA1979,1979,Chicago White Sox,AL
+CHN1979,1979,Chicago Cubs,NL
+CIN1979,1979,Cincinnati Reds,NL
+CLE1979,1979,Cleveland Indians,AL
+DET1979,1979,Detroit Tigers,AL
+HOU1979,1979,Houston Astros,NL
+KCA1979,1979,Kansas City Royals,AL
+LAN1979,1979,Los Angeles Dodgers,NL
+MIN1979,1979,Minnesota Twins,AL
+MIL1979,1979,Milwaukee Brewers,AL
+MON1979,1979,Montreal Expos,NL
+NYA1979,1979,New York Yankees,AL
+NYN1979,1979,New York Mets,NL
+OAK1979,1979,Oakland Athletics,AL
+PHI1979,1979,Philadelphia Phillies,NL
+PIT1979,1979,Pittsburgh Pirates,NL
+SDN1979,1979,San Diego Padres,NL
+SEA1979,1979,Seattle Mariners,AL
+SFN1979,1979,San Francisco Giants,NL
+SLN1979,1979,St. Louis Cardinals,NL
+TEX1979,1979,Texas Rangers,AL
+TOR1979,1979,Toronto Blue Jays,AL
+ATL1980,1980,Atlanta Braves,NL
+BAL1980,1980,Baltimore Orioles,AL
+BOS1980,1980,Boston Red Sox,AL
+CAL1980,1980,California Angels,AL
+CHA1980,1980,Chicago White Sox,AL
+CHN1980,1980,Chicago Cubs,NL
+CIN1980,1980,Cincinnati Reds,NL
+CLE1980,1980,Cleveland Indians,AL
+DET1980,1980,Detroit Tigers,AL
+HOU1980,1980,Houston Astros,NL
+KCA1980,1980,Kansas City Royals,AL
+LAN1980,1980,Los Angeles Dodgers,NL
+MIN1980,1980,Minnesota Twins,AL
+MIL1980,1980,Milwaukee Brewers,AL
+MON1980,1980,Montreal Expos,NL
+NYA1980,1980,New York Yankees,AL
+NYN1980,1980,New York Mets,NL
+OAK1980,1980,Oakland Athletics,AL
+PHI1980,1980,Philadelphia Phillies,NL
+PIT1980,1980,Pittsburgh Pirates,NL
+SDN1980,1980,San Diego Padres,NL
+SEA1980,1980,Seattle Mariners,AL
+SFN1980,1980,San Francisco Giants,NL
+SLN1980,1980,St. Louis Cardinals,NL
+TEX1980,1980,Texas Rangers,AL
+TOR1980,1980,Toronto Blue Jays,AL
+ATL1981,1981,Atlanta Braves,NL
+BAL1981,1981,Baltimore Orioles,AL
+BOS1981,1981,Boston Red Sox,AL
+CAL1981,1981,California Angels,AL
+CHA1981,1981,Chicago White Sox,AL
+CHN1981,1981,Chicago Cubs,NL
+CIN1981,1981,Cincinnati Reds,NL
+CLE1981,1981,Cleveland Indians,AL
+DET1981,1981,Detroit Tigers,AL
+HOU1981,1981,Houston Astros,NL
+KCA1981,1981,Kansas City Royals,AL
+LAN1981,1981,Los Angeles Dodgers,NL
+MIN1981,1981,Minnesota Twins,AL
+MIL1981,1981,Milwaukee Brewers,AL
+MON1981,1981,Montreal Expos,NL
+NYA1981,1981,New York Yankees,AL
+NYN1981,1981,New York Mets,NL
+OAK1981,1981,Oakland Athletics,AL
+PHI1981,1981,Philadelphia Phillies,NL
+PIT1981,1981,Pittsburgh Pirates,NL
+SDN1981,1981,San Diego Padres,NL
+SEA1981,1981,Seattle Mariners,AL
+SFN1981,1981,San Francisco Giants,NL
+SLN1981,1981,St. Louis Cardinals,NL
+TEX1981,1981,Texas Rangers,AL
+TOR1981,1981,Toronto Blue Jays,AL
+ATL1982,1982,Atlanta Braves,NL
+BAL1982,1982,Baltimore Orioles,AL
+BOS1982,1982,Boston Red Sox,AL
+CAL1982,1982,California Angels,AL
+CHA1982,1982,Chicago White Sox,AL
+CHN1982,1982,Chicago Cubs,NL
+CIN1982,1982,Cincinnati Reds,NL
+CLE1982,1982,Cleveland Indians,AL
+DET1982,1982,Detroit Tigers,AL
+HOU1982,1982,Houston Astros,NL
+KCA1982,1982,Kansas City Royals,AL
+LAN1982,1982,Los Angeles Dodgers,NL
+MIN1982,1982,Minnesota Twins,AL
+MIL1982,1982,Milwaukee Brewers,AL
+MON1982,1982,Montreal Expos,NL
+NYA1982,1982,New York Yankees,AL
+NYN1982,1982,New York Mets,NL
+OAK1982,1982,Oakland Athletics,AL
+PHI1982,1982,Philadelphia Phillies,NL
+PIT1982,1982,Pittsburgh Pirates,NL
+SDN1982,1982,San Diego Padres,NL
+SEA1982,1982,Seattle Mariners,AL
+SFN1982,1982,San Francisco Giants,NL
+SLN1982,1982,St. Louis Cardinals,NL
+TEX1982,1982,Texas Rangers,AL
+TOR1982,1982,Toronto Blue Jays,AL
+ATL1983,1983,Atlanta Braves,NL
+BAL1983,1983,Baltimore Orioles,AL
+BOS1983,1983,Boston Red Sox,AL
+CAL1983,1983,California Angels,AL
+CHA1983,1983,Chicago White Sox,AL
+CHN1983,1983,Chicago Cubs,NL
+CIN1983,1983,Cincinnati Reds,NL
+CLE1983,1983,Cleveland Indians,AL
+DET1983,1983,Detroit Tigers,AL
+HOU1983,1983,Houston Astros,NL
+KCA1983,1983,Kansas City Royals,AL
+LAN1983,1983,Los Angeles Dodgers,NL
+MIN1983,1983,Minnesota Twins,AL
+MIL1983,1983,Milwaukee Brewers,AL
+MON1983,1983,Montreal Expos,NL
+NYA1983,1983,New York Yankees,AL
+NYN1983,1983,New York Mets,NL
+OAK1983,1983,Oakland Athletics,AL
+PHI1983,1983,Philadelphia Phillies,NL
+PIT1983,1983,Pittsburgh Pirates,NL
+SDN1983,1983,San Diego Padres,NL
+SEA1983,1983,Seattle Mariners,AL
+SFN1983,1983,San Francisco Giants,NL
+SLN1983,1983,St. Louis Cardinals,NL
+TEX1983,1983,Texas Rangers,AL
+TOR1983,1983,Toronto Blue Jays,AL
+ATL1984,1984,Atlanta Braves,NL
+BAL1984,1984,Baltimore Orioles,AL
+BOS1984,1984,Boston Red Sox,AL
+CAL1984,1984,California Angels,AL
+CHA1984,1984,Chicago White Sox,AL
+CHN1984,1984,Chicago Cubs,NL
+CIN1984,1984,Cincinnati Reds,NL
+CLE1984,1984,Cleveland Indians,AL
+DET1984,1984,Detroit Tigers,AL
+HOU1984,1984,Houston Astros,NL
+KCA1984,1984,Kansas City Royals,AL
+LAN1984,1984,Los Angeles Dodgers,NL
+MIN1984,1984,Minnesota Twins,AL
+MIL1984,1984,Milwaukee Brewers,AL
+MON1984,1984,Montreal Expos,NL
+NYA1984,1984,New York Yankees,AL
+NYN1984,1984,New York Mets,NL
+OAK1984,1984,Oakland Athletics,AL
+PHI1984,1984,Philadelphia Phillies,NL
+PIT1984,1984,Pittsburgh Pirates,NL
+SDN1984,1984,San Diego Padres,NL
+SEA1984,1984,Seattle Mariners,AL
+SFN1984,1984,San Francisco Giants,NL
+SLN1984,1984,St. Louis Cardinals,NL
+TEX1984,1984,Texas Rangers,AL
+TOR1984,1984,Toronto Blue Jays,AL
+ATL1985,1985,Atlanta Braves,NL
+BAL1985,1985,Baltimore Orioles,AL
+BOS1985,1985,Boston Red Sox,AL
+CAL1985,1985,California Angels,AL
+CHA1985,1985,Chicago White Sox,AL
+CHN1985,1985,Chicago Cubs,NL
+CIN1985,1985,Cincinnati Reds,NL
+CLE1985,1985,Cleveland Indians,AL
+DET1985,1985,Detroit Tigers,AL
+HOU1985,1985,Houston Astros,NL
+KCA1985,1985,Kansas City Royals,AL
+LAN1985,1985,Los Angeles Dodgers,NL
+MIN1985,1985,Minnesota Twins,AL
+MIL1985,1985,Milwaukee Brewers,AL
+MON1985,1985,Montreal Expos,NL
+NYA1985,1985,New York Yankees,AL
+NYN1985,1985,New York Mets,NL
+OAK1985,1985,Oakland Athletics,AL
+PHI1985,1985,Philadelphia Phillies,NL
+PIT1985,1985,Pittsburgh Pirates,NL
+SDN1985,1985,San Diego Padres,NL
+SEA1985,1985,Seattle Mariners,AL
+SFN1985,1985,San Francisco Giants,NL
+SLN1985,1985,St. Louis Cardinals,NL
+TEX1985,1985,Texas Rangers,AL
+TOR1985,1985,Toronto Blue Jays,AL
+ATL1986,1986,Atlanta Braves,NL
+BAL1986,1986,Baltimore Orioles,AL
+BOS1986,1986,Boston Red Sox,AL
+CAL1986,1986,California Angels,AL
+CHA1986,1986,Chicago White Sox,AL
+CHN1986,1986,Chicago Cubs,NL
+CIN1986,1986,Cincinnati Reds,NL
+CLE1986,1986,Cleveland Indians,AL
+DET1986,1986,Detroit Tigers,AL
+HOU1986,1986,Houston Astros,NL
+KCA1986,1986,Kansas City Royals,AL
+LAN1986,1986,Los Angeles Dodgers,NL
+MIN1986,1986,Minnesota Twins,AL
+MIL1986,1986,Milwaukee Brewers,AL
+MON1986,1986,Montreal Expos,NL
+NYA1986,1986,New York Yankees,AL
+NYN1986,1986,New York Mets,NL
+OAK1986,1986,Oakland Athletics,AL
+PHI1986,1986,Philadelphia Phillies,NL
+PIT1986,1986,Pittsburgh Pirates,NL
+SDN1986,1986,San Diego Padres,NL
+SEA1986,1986,Seattle Mariners,AL
+SFN1986,1986,San Francisco Giants,NL
+SLN1986,1986,St. Louis Cardinals,NL
+TEX1986,1986,Texas Rangers,AL
+TOR1986,1986,Toronto Blue Jays,AL
+ATL1987,1987,Atlanta Braves,NL
+BAL1987,1987,Baltimore Orioles,AL
+BOS1987,1987,Boston Red Sox,AL
+CAL1987,1987,California Angels,AL
+CHA1987,1987,Chicago White Sox,AL
+CHN1987,1987,Chicago Cubs,NL
+CIN1987,1987,Cincinnati Reds,NL
+CLE1987,1987,Cleveland Indians,AL
+DET1987,1987,Detroit Tigers,AL
+HOU1987,1987,Houston Astros,NL
+KCA1987,1987,Kansas City Royals,AL
+LAN1987,1987,Los Angeles Dodgers,NL
+MIN1987,1987,Minnesota Twins,AL
+MIL1987,1987,Milwaukee Brewers,AL
+MON1987,1987,Montreal Expos,NL
+NYA1987,1987,New York Yankees,AL
+NYN1987,1987,New York Mets,NL
+OAK1987,1987,Oakland Athletics,AL
+PHI1987,1987,Philadelphia Phillies,NL
+PIT1987,1987,Pittsburgh Pirates,NL
+SDN1987,1987,San Diego Padres,NL
+SEA1987,1987,Seattle Mariners,AL
+SFN1987,1987,San Francisco Giants,NL
+SLN1987,1987,St. Louis Cardinals,NL
+TEX1987,1987,Texas Rangers,AL
+TOR1987,1987,Toronto Blue Jays,AL
+ATL1988,1988,Atlanta Braves,NL
+BAL1988,1988,Baltimore Orioles,AL
+BOS1988,1988,Boston Red Sox,AL
+CAL1988,1988,California Angels,AL
+CHA1988,1988,Chicago White Sox,AL
+CHN1988,1988,Chicago Cubs,NL
+CIN1988,1988,Cincinnati Reds,NL
+CLE1988,1988,Cleveland Indians,AL
+DET1988,1988,Detroit Tigers,AL
+HOU1988,1988,Houston Astros,NL
+KCA1988,1988,Kansas City Royals,AL
+LAN1988,1988,Los Angeles Dodgers,NL
+MIN1988,1988,Minnesota Twins,AL
+MIL1988,1988,Milwaukee Brewers,AL
+MON1988,1988,Montreal Expos,NL
+NYA1988,1988,New York Yankees,AL
+NYN1988,1988,New York Mets,NL
+OAK1988,1988,Oakland Athletics,AL
+PHI1988,1988,Philadelphia Phillies,NL
+PIT1988,1988,Pittsburgh Pirates,NL
+SDN1988,1988,San Diego Padres,NL
+SEA1988,1988,Seattle Mariners,AL
+SFN1988,1988,San Francisco Giants,NL
+SLN1988,1988,St. Louis Cardinals,NL
+TEX1988,1988,Texas Rangers,AL
+TOR1988,1988,Toronto Blue Jays,AL
+ATL1989,1989,Atlanta Braves,NL
+BAL1989,1989,Baltimore Orioles,AL
+BOS1989,1989,Boston Red Sox,AL
+CAL1989,1989,California Angels,AL
+CHA1989,1989,Chicago White Sox,AL
+CHN1989,1989,Chicago Cubs,NL
+CIN1989,1989,Cincinnati Reds,NL
+CLE1989,1989,Cleveland Indians,AL
+DET1989,1989,Detroit Tigers,AL
+HOU1989,1989,Houston Astros,NL
+KCA1989,1989,Kansas City Royals,AL
+LAN1989,1989,Los Angeles Dodgers,NL
+MIN1989,1989,Minnesota Twins,AL
+MIL1989,1989,Milwaukee Brewers,AL
+MON1989,1989,Montreal Expos,NL
+NYA1989,1989,New York Yankees,AL
+NYN1989,1989,New York Mets,NL
+OAK1989,1989,Oakland Athletics,AL
+PHI1989,1989,Philadelphia Phillies,NL
+PIT1989,1989,Pittsburgh Pirates,NL
+SDN1989,1989,San Diego Padres,NL
+SEA1989,1989,Seattle Mariners,AL
+SFN1989,1989,San Francisco Giants,NL
+SLN1989,1989,St. Louis Cardinals,NL
+TEX1989,1989,Texas Rangers,AL
+TOR1989,1989,Toronto Blue Jays,AL
+ATL1990,1990,Atlanta Braves,NL
+BAL1990,1990,Baltimore Orioles,AL
+BOS1990,1990,Boston Red Sox,AL
+CAL1990,1990,California Angels,AL
+CHA1990,1990,Chicago White Sox,AL
+CHN1990,1990,Chicago Cubs,NL
+CIN1990,1990,Cincinnati Reds,NL
+CLE1990,1990,Cleveland Indians,AL
+DET1990,1990,Detroit Tigers,AL
+HOU1990,1990,Houston Astros,NL
+KCA1990,1990,Kansas City Royals,AL
+LAN1990,1990,Los Angeles Dodgers,NL
+MIN1990,1990,Minnesota Twins,AL
+MIL1990,1990,Milwaukee Brewers,AL
+MON1990,1990,Montreal Expos,NL
+NYA1990,1990,New York Yankees,AL
+NYN1990,1990,New York Mets,NL
+OAK1990,1990,Oakland Athletics,AL
+PHI1990,1990,Philadelphia Phillies,NL
+PIT1990,1990,Pittsburgh Pirates,NL
+SDN1990,1990,San Diego Padres,NL
+SEA1990,1990,Seattle Mariners,AL
+SFN1990,1990,San Francisco Giants,NL
+SLN1990,1990,St. Louis Cardinals,NL
+TEX1990,1990,Texas Rangers,AL
+TOR1990,1990,Toronto Blue Jays,AL
+ATL1991,1991,Atlanta Braves,NL
+BAL1991,1991,Baltimore Orioles,AL
+BOS1991,1991,Boston Red Sox,AL
+CAL1991,1991,California Angels,AL
+CHA1991,1991,Chicago White Sox,AL
+CHN1991,1991,Chicago Cubs,NL
+CIN1991,1991,Cincinnati Reds,NL
+CLE1991,1991,Cleveland Indians,AL
+DET1991,1991,Detroit Tigers,AL
+HOU1991,1991,Houston Astros,NL
+KCA1991,1991,Kansas City Royals,AL
+LAN1991,1991,Los Angeles Dodgers,NL
+MIN1991,1991,Minnesota Twins,AL
+MIL1991,1991,Milwaukee Brewers,AL
+MON1991,1991,Montreal Expos,NL
+NYA1991,1991,New York Yankees,AL
+NYN1991,1991,New York Mets,NL
+OAK1991,1991,Oakland Athletics,AL
+PHI1991,1991,Philadelphia Phillies,NL
+PIT1991,1991,Pittsburgh Pirates,NL
+SDN1991,1991,San Diego Padres,NL
+SEA1991,1991,Seattle Mariners,AL
+SFN1991,1991,San Francisco Giants,NL
+SLN1991,1991,St. Louis Cardinals,NL
+TEX1991,1991,Texas Rangers,AL
+TOR1991,1991,Toronto Blue Jays,AL
+ATL1992,1992,Atlanta Braves,NL
+BAL1992,1992,Baltimore Orioles,AL
+BOS1992,1992,Boston Red Sox,AL
+CAL1992,1992,California Angels,AL
+CHA1992,1992,Chicago White Sox,AL
+CHN1992,1992,Chicago Cubs,NL
+CIN1992,1992,Cincinnati Reds,NL
+CLE1992,1992,Cleveland Indians,AL
+DET1992,1992,Detroit Tigers,AL
+HOU1992,1992,Houston Astros,NL
+KCA1992,1992,Kansas City Royals,AL
+LAN1992,1992,Los Angeles Dodgers,NL
+MIN1992,1992,Minnesota Twins,AL
+MIL1992,1992,Milwaukee Brewers,AL
+MON1992,1992,Montreal Expos,NL
+NYA1992,1992,New York Yankees,AL
+NYN1992,1992,New York Mets,NL
+OAK1992,1992,Oakland Athletics,AL
+PHI1992,1992,Philadelphia Phillies,NL
+PIT1992,1992,Pittsburgh Pirates,NL
+SDN1992,1992,San Diego Padres,NL
+SEA1992,1992,Seattle Mariners,AL
+SFN1992,1992,San Francisco Giants,NL
+SLN1992,1992,St. Louis Cardinals,NL
+TEX1992,1992,Texas Rangers,AL
+TOR1992,1992,Toronto Blue Jays,AL
+ATL1993,1993,Atlanta Braves,NL
+BAL1993,1993,Baltimore Orioles,AL
+BOS1993,1993,Boston Red Sox,AL
+CAL1993,1993,California Angels,AL
+CHA1993,1993,Chicago White Sox,AL
+CHN1993,1993,Chicago Cubs,NL
+CIN1993,1993,Cincinnati Reds,NL
+CLE1993,1993,Cleveland Indians,AL
+COL1993,1993,Colorado Rockies,NL
+DET1993,1993,Detroit Tigers,AL
+FLO1993,1993,Florida Marlins,NL
+HOU1993,1993,Houston Astros,NL
+KCA1993,1993,Kansas City Royals,AL
+LAN1993,1993,Los Angeles Dodgers,NL
+MIN1993,1993,Minnesota Twins,AL
+MIL1993,1993,Milwaukee Brewers,AL
+MON1993,1993,Montreal Expos,NL
+NYA1993,1993,New York Yankees,AL
+NYN1993,1993,New York Mets,NL
+OAK1993,1993,Oakland Athletics,AL
+PHI1993,1993,Philadelphia Phillies,NL
+PIT1993,1993,Pittsburgh Pirates,NL
+SDN1993,1993,San Diego Padres,NL
+SEA1993,1993,Seattle Mariners,AL
+SFN1993,1993,San Francisco Giants,NL
+SLN1993,1993,St. Louis Cardinals,NL
+TEX1993,1993,Texas Rangers,AL
+TOR1993,1993,Toronto Blue Jays,AL
+ATL1994,1994,Atlanta Braves,NL
+BAL1994,1994,Baltimore Orioles,AL
+BOS1994,1994,Boston Red Sox,AL
+CAL1994,1994,California Angels,AL
+CHA1994,1994,Chicago White Sox,AL
+CHN1994,1994,Chicago Cubs,NL
+CIN1994,1994,Cincinnati Reds,NL
+CLE1994,1994,Cleveland Indians,AL
+COL1994,1994,Colorado Rockies,NL
+DET1994,1994,Detroit Tigers,AL
+FLO1994,1994,Florida Marlins,NL
+HOU1994,1994,Houston Astros,NL
+KCA1994,1994,Kansas City Royals,AL
+LAN1994,1994,Los Angeles Dodgers,NL
+MIN1994,1994,Minnesota Twins,AL
+MIL1994,1994,Milwaukee Brewers,AL
+MON1994,1994,Montreal Expos,NL
+NYA1994,1994,New York Yankees,AL
+NYN1994,1994,New York Mets,NL
+OAK1994,1994,Oakland Athletics,AL
+PHI1994,1994,Philadelphia Phillies,NL
+PIT1994,1994,Pittsburgh Pirates,NL
+SDN1994,1994,San Diego Padres,NL
+SEA1994,1994,Seattle Mariners,AL
+SFN1994,1994,San Francisco Giants,NL
+SLN1994,1994,St. Louis Cardinals,NL
+TEX1994,1994,Texas Rangers,AL
+TOR1994,1994,Toronto Blue Jays,AL
+ATL1995,1995,Atlanta Braves,NL
+BAL1995,1995,Baltimore Orioles,AL
+BOS1995,1995,Boston Red Sox,AL
+CAL1995,1995,California Angels,AL
+CHA1995,1995,Chicago White Sox,AL
+CHN1995,1995,Chicago Cubs,NL
+CIN1995,1995,Cincinnati Reds,NL
+CLE1995,1995,Cleveland Indians,AL
+COL1995,1995,Colorado Rockies,NL
+DET1995,1995,Detroit Tigers,AL
+FLO1995,1995,Florida Marlins,NL
+HOU1995,1995,Houston Astros,NL
+KCA1995,1995,Kansas City Royals,AL
+LAN1995,1995,Los Angeles Dodgers,NL
+MIN1995,1995,Minnesota Twins,AL
+MIL1995,1995,Milwaukee Brewers,AL
+MON1995,1995,Montreal Expos,NL
+NYA1995,1995,New York Yankees,AL
+NYN1995,1995,New York Mets,NL
+OAK1995,1995,Oakland Athletics,AL
+PHI1995,1995,Philadelphia Phillies,NL
+PIT1995,1995,Pittsburgh Pirates,NL
+SDN1995,1995,San Diego Padres,NL
+SEA1995,1995,Seattle Mariners,AL
+SFN1995,1995,San Francisco Giants,NL
+SLN1995,1995,St. Louis Cardinals,NL
+TEX1995,1995,Texas Rangers,AL
+TOR1995,1995,Toronto Blue Jays,AL
+ATL1996,1996,Atlanta Braves,NL
+BAL1996,1996,Baltimore Orioles,AL
+BOS1996,1996,Boston Red Sox,AL
+CAL1996,1996,California Angels,AL
+CHA1996,1996,Chicago White Sox,AL
+CHN1996,1996,Chicago Cubs,NL
+CIN1996,1996,Cincinnati Reds,NL
+CLE1996,1996,Cleveland Indians,AL
+COL1996,1996,Colorado Rockies,NL
+DET1996,1996,Detroit Tigers,AL
+FLO1996,1996,Florida Marlins,NL
+HOU1996,1996,Houston Astros,NL
+KCA1996,1996,Kansas City Royals,AL
+LAN1996,1996,Los Angeles Dodgers,NL
+MIN1996,1996,Minnesota Twins,AL
+MIL1996,1996,Milwaukee Brewers,AL
+MON1996,1996,Montreal Expos,NL
+NYA1996,1996,New York Yankees,AL
+NYN1996,1996,New York Mets,NL
+OAK1996,1996,Oakland Athletics,AL
+PHI1996,1996,Philadelphia Phillies,NL
+PIT1996,1996,Pittsburgh Pirates,NL
+SDN1996,1996,San Diego Padres,NL
+SEA1996,1996,Seattle Mariners,AL
+SFN1996,1996,San Francisco Giants,NL
+SLN1996,1996,St. Louis Cardinals,NL
+TEX1996,1996,Texas Rangers,AL
+TOR1996,1996,Toronto Blue Jays,AL
+ANA1997,1997,Anaheim Angels,AL
+ATL1997,1997,Atlanta Braves,NL
+BAL1997,1997,Baltimore Orioles,AL
+BOS1997,1997,Boston Red Sox,AL
+CHA1997,1997,Chicago White Sox,AL
+CHN1997,1997,Chicago Cubs,NL
+CIN1997,1997,Cincinnati Reds,NL
+CLE1997,1997,Cleveland Indians,AL
+COL1997,1997,Colorado Rockies,NL
+DET1997,1997,Detroit Tigers,AL
+FLO1997,1997,Florida Marlins,NL
+HOU1997,1997,Houston Astros,NL
+KCA1997,1997,Kansas City Royals,AL
+LAN1997,1997,Los Angeles Dodgers,NL
+MIN1997,1997,Minnesota Twins,AL
+MIL1997,1997,Milwaukee Brewers,AL
+MON1997,1997,Montreal Expos,NL
+NYA1997,1997,New York Yankees,AL
+NYN1997,1997,New York Mets,NL
+OAK1997,1997,Oakland Athletics,AL
+PHI1997,1997,Philadelphia Phillies,NL
+PIT1997,1997,Pittsburgh Pirates,NL
+SDN1997,1997,San Diego Padres,NL
+SEA1997,1997,Seattle Mariners,AL
+SFN1997,1997,San Francisco Giants,NL
+SLN1997,1997,St. Louis Cardinals,NL
+TEX1997,1997,Texas Rangers,AL
+TOR1997,1997,Toronto Blue Jays,AL
+ANA1998,1998,Anaheim Angels,AL
+ARI1998,1998,Arizona Diamondbacks,NL
+ATL1998,1998,Atlanta Braves,NL
+BAL1998,1998,Baltimore Orioles,AL
+BOS1998,1998,Boston Red Sox,AL
+CHA1998,1998,Chicago White Sox,AL
+CHN1998,1998,Chicago Cubs,NL
+CIN1998,1998,Cincinnati Reds,NL
+CLE1998,1998,Cleveland Indians,AL
+COL1998,1998,Colorado Rockies,NL
+DET1998,1998,Detroit Tigers,AL
+FLO1998,1998,Florida Marlins,NL
+HOU1998,1998,Houston Astros,NL
+KCA1998,1998,Kansas City Royals,AL
+LAN1998,1998,Los Angeles Dodgers,NL
+MIL1998,1998,Milwaukee Brewers,NL
+MIN1998,1998,Minnesota Twins,AL
+MON1998,1998,Montreal Expos,NL
+NYA1998,1998,New York Yankees,AL
+NYN1998,1998,New York Mets,NL
+OAK1998,1998,Oakland Athletics,AL
+PHI1998,1998,Philadelphia Phillies,NL
+PIT1998,1998,Pittsburgh Pirates,NL
+SDN1998,1998,San Diego Padres,NL
+SEA1998,1998,Seattle Mariners,AL
+SFN1998,1998,San Francisco Giants,NL
+SLN1998,1998,St. Louis Cardinals,NL
+TBA1998,1998,Tampa Bay Devil Rays,AL
+TEX1998,1998,Texas Rangers,AL
+TOR1998,1998,Toronto Blue Jays,AL
+ANA1999,1999,Anaheim Angels,AL
+ARI1999,1999,Arizona Diamondbacks,NL
+ATL1999,1999,Atlanta Braves,NL
+BAL1999,1999,Baltimore Orioles,AL
+BOS1999,1999,Boston Red Sox,AL
+CHA1999,1999,Chicago White Sox,AL
+CHN1999,1999,Chicago Cubs,NL
+CIN1999,1999,Cincinnati Reds,NL
+CLE1999,1999,Cleveland Indians,AL
+COL1999,1999,Colorado Rockies,NL
+DET1999,1999,Detroit Tigers,AL
+FLO1999,1999,Florida Marlins,NL
+HOU1999,1999,Houston Astros,NL
+KCA1999,1999,Kansas City Royals,AL
+LAN1999,1999,Los Angeles Dodgers,NL
+MIL1999,1999,Milwaukee Brewers,NL
+MIN1999,1999,Minnesota Twins,AL
+MON1999,1999,Montreal Expos,NL
+NYA1999,1999,New York Yankees,AL
+NYN1999,1999,New York Mets,NL
+OAK1999,1999,Oakland Athletics,AL
+PHI1999,1999,Philadelphia Phillies,NL
+PIT1999,1999,Pittsburgh Pirates,NL
+SDN1999,1999,San Diego Padres,NL
+SEA1999,1999,Seattle Mariners,AL
+SFN1999,1999,San Francisco Giants,NL
+SLN1999,1999,St. Louis Cardinals,NL
+TBA1999,1999,Tampa Bay Devil Rays,AL
+TEX1999,1999,Texas Rangers,AL
+TOR1999,1999,Toronto Blue Jays,AL
+ANA2000,2000,Anaheim Angels,AL
+ARI2000,2000,Arizona Diamondbacks,NL
+ATL2000,2000,Atlanta Braves,NL
+BAL2000,2000,Baltimore Orioles,AL
+BOS2000,2000,Boston Red Sox,AL
+CHA2000,2000,Chicago White Sox,AL
+CHN2000,2000,Chicago Cubs,NL
+CIN2000,2000,Cincinnati Reds,NL
+CLE2000,2000,Cleveland Indians,AL
+COL2000,2000,Colorado Rockies,NL
+DET2000,2000,Detroit Tigers,AL
+FLO2000,2000,Florida Marlins,NL
+HOU2000,2000,Houston Astros,NL
+KCA2000,2000,Kansas City Royals,AL
+LAN2000,2000,Los Angeles Dodgers,NL
+MIL2000,2000,Milwaukee Brewers,NL
+MIN2000,2000,Minnesota Twins,AL
+MON2000,2000,Montreal Expos,NL
+NYA2000,2000,New York Yankees,AL
+NYN2000,2000,New York Mets,NL
+OAK2000,2000,Oakland Athletics,AL
+PHI2000,2000,Philadelphia Phillies,NL
+PIT2000,2000,Pittsburgh Pirates,NL
+SDN2000,2000,San Diego Padres,NL
+SEA2000,2000,Seattle Mariners,AL
+SFN2000,2000,San Francisco Giants,NL
+SLN2000,2000,St. Louis Cardinals,NL
+TBA2000,2000,Tampa Bay Devil Rays,AL
+TEX2000,2000,Texas Rangers,AL
+TOR2000,2000,Toronto Blue Jays,AL
+ANA2001,2001,Anaheim Angels,AL
+ARI2001,2001,Arizona Diamondbacks,NL
+ATL2001,2001,Atlanta Braves,NL
+BAL2001,2001,Baltimore Orioles,AL
+BOS2001,2001,Boston Red Sox,AL
+CHA2001,2001,Chicago White Sox,AL
+CHN2001,2001,Chicago Cubs,NL
+CIN2001,2001,Cincinnati Reds,NL
+CLE2001,2001,Cleveland Indians,AL
+COL2001,2001,Colorado Rockies,NL
+DET2001,2001,Detroit Tigers,AL
+FLO2001,2001,Florida Marlins,NL
+HOU2001,2001,Houston Astros,NL
+KCA2001,2001,Kansas City Royals,AL
+LAN2001,2001,Los Angeles Dodgers,NL
+MIL2001,2001,Milwaukee Brewers,NL
+MIN2001,2001,Minnesota Twins,AL
+MON2001,2001,Montreal Expos,NL
+NYA2001,2001,New York Yankees,AL
+NYN2001,2001,New York Mets,NL
+OAK2001,2001,Oakland Athletics,AL
+PHI2001,2001,Philadelphia Phillies,NL
+PIT2001,2001,Pittsburgh Pirates,NL
+SDN2001,2001,San Diego Padres,NL
+SEA2001,2001,Seattle Mariners,AL
+SFN2001,2001,San Francisco Giants,NL
+SLN2001,2001,St. Louis Cardinals,NL
+TBA2001,2001,Tampa Bay Devil Rays,AL
+TEX2001,2001,Texas Rangers,AL
+TOR2001,2001,Toronto Blue Jays,AL
+ANA2002,2002,Anaheim Angels,AL
+ARI2002,2002,Arizona Diamondbacks,NL
+ATL2002,2002,Atlanta Braves,NL
+BAL2002,2002,Baltimore Orioles,AL
+BOS2002,2002,Boston Red Sox,AL
+CHA2002,2002,Chicago White Sox,AL
+CHN2002,2002,Chicago Cubs,NL
+CIN2002,2002,Cincinnati Reds,NL
+CLE2002,2002,Cleveland Indians,AL
+COL2002,2002,Colorado Rockies,NL
+DET2002,2002,Detroit Tigers,AL
+FLO2002,2002,Florida Marlins,NL
+HOU2002,2002,Houston Astros,NL
+KCA2002,2002,Kansas City Royals,AL
+LAN2002,2002,Los Angeles Dodgers,NL
+MIL2002,2002,Milwaukee Brewers,NL
+MIN2002,2002,Minnesota Twins,AL
+MON2002,2002,Montreal Expos,NL
+NYA2002,2002,New York Yankees,AL
+NYN2002,2002,New York Mets,NL
+OAK2002,2002,Oakland Athletics,AL
+PHI2002,2002,Philadelphia Phillies,NL
+PIT2002,2002,Pittsburgh Pirates,NL
+SDN2002,2002,San Diego Padres,NL
+SEA2002,2002,Seattle Mariners,AL
+SFN2002,2002,San Francisco Giants,NL
+SLN2002,2002,St. Louis Cardinals,NL
+TBA2002,2002,Tampa Bay Devil Rays,AL
+TEX2002,2002,Texas Rangers,AL
+TOR2002,2002,Toronto Blue Jays,AL
+ANA2003,2003,Anaheim Angels,AL
+ARI2003,2003,Arizona Diamondbacks,NL
+ATL2003,2003,Atlanta Braves,NL
+BAL2003,2003,Baltimore Orioles,AL
+BOS2003,2003,Boston Red Sox,AL
+CHA2003,2003,Chicago White Sox,AL
+CHN2003,2003,Chicago Cubs,NL
+CIN2003,2003,Cincinnati Reds,NL
+CLE2003,2003,Cleveland Indians,AL
+COL2003,2003,Colorado Rockies,NL
+DET2003,2003,Detroit Tigers,AL
+FLO2003,2003,Florida Marlins,NL
+HOU2003,2003,Houston Astros,NL
+KCA2003,2003,Kansas City Royals,AL
+LAN2003,2003,Los Angeles Dodgers,NL
+MIL2003,2003,Milwaukee Brewers,NL
+MIN2003,2003,Minnesota Twins,AL
+MON2003,2003,Montreal Expos,NL
+NYA2003,2003,New York Yankees,AL
+NYN2003,2003,New York Mets,NL
+OAK2003,2003,Oakland Athletics,AL
+PHI2003,2003,Philadelphia Phillies,NL
+PIT2003,2003,Pittsburgh Pirates,NL
+SDN2003,2003,San Diego Padres,NL
+SEA2003,2003,Seattle Mariners,AL
+SFN2003,2003,San Francisco Giants,NL
+SLN2003,2003,St. Louis Cardinals,NL
+TBA2003,2003,Tampa Bay Devil Rays,AL
+TEX2003,2003,Texas Rangers,AL
+TOR2003,2003,Toronto Blue Jays,AL
+ANA2004,2004,Anaheim Angels,AL
+ARI2004,2004,Arizona Diamondbacks,NL
+ATL2004,2004,Atlanta Braves,NL
+BAL2004,2004,Baltimore Orioles,AL
+BOS2004,2004,Boston Red Sox,AL
+CHA2004,2004,Chicago White Sox,AL
+CHN2004,2004,Chicago Cubs,NL
+CIN2004,2004,Cincinnati Reds,NL
+CLE2004,2004,Cleveland Indians,AL
+COL2004,2004,Colorado Rockies,NL
+DET2004,2004,Detroit Tigers,AL
+FLO2004,2004,Florida Marlins,NL
+HOU2004,2004,Houston Astros,NL
+KCA2004,2004,Kansas City Royals,AL
+LAN2004,2004,Los Angeles Dodgers,NL
+MIL2004,2004,Milwaukee Brewers,NL
+MIN2004,2004,Minnesota Twins,AL
+MON2004,2004,Montreal Expos,NL
+NYA2004,2004,New York Yankees,AL
+NYN2004,2004,New York Mets,NL
+OAK2004,2004,Oakland Athletics,AL
+PHI2004,2004,Philadelphia Phillies,NL
+PIT2004,2004,Pittsburgh Pirates,NL
+SDN2004,2004,San Diego Padres,NL
+SEA2004,2004,Seattle Mariners,AL
+SFN2004,2004,San Francisco Giants,NL
+SLN2004,2004,St. Louis Cardinals,NL
+TBA2004,2004,Tampa Bay Devil Rays,AL
+TEX2004,2004,Texas Rangers,AL
+TOR2004,2004,Toronto Blue Jays,AL
+ARI2005,2005,Arizona Diamondbacks,NL
+ATL2005,2005,Atlanta Braves,NL
+BAL2005,2005,Baltimore Orioles,AL
+BOS2005,2005,Boston Red Sox,AL
+CHA2005,2005,Chicago White Sox,AL
+CHN2005,2005,Chicago Cubs,NL
+CIN2005,2005,Cincinnati Reds,NL
+CLE2005,2005,Cleveland Indians,AL
+COL2005,2005,Colorado Rockies,NL
+DET2005,2005,Detroit Tigers,AL
+FLO2005,2005,Florida Marlins,NL
+HOU2005,2005,Houston Astros,NL
+KCA2005,2005,Kansas City Royals,AL
+ANA2005,2005,Los Angeles Angels of Anaheim,AL
+LAN2005,2005,Los Angeles Dodgers,NL
+MIL2005,2005,Milwaukee Brewers,NL
+MIN2005,2005,Minnesota Twins,AL
+NYA2005,2005,New York Yankees,AL
+NYN2005,2005,New York Mets,NL
+OAK2005,2005,Oakland Athletics,AL
+PHI2005,2005,Philadelphia Phillies,NL
+PIT2005,2005,Pittsburgh Pirates,NL
+SDN2005,2005,San Diego Padres,NL
+SEA2005,2005,Seattle Mariners,AL
+SFN2005,2005,San Francisco Giants,NL
+SLN2005,2005,St. Louis Cardinals,NL
+TBA2005,2005,Tampa Bay Devil Rays,AL
+TEX2005,2005,Texas Rangers,AL
+TOR2005,2005,Toronto Blue Jays,AL
+WAS2005,2005,Washington Nationals,NL
+ARI2006,2006,Arizona Diamondbacks,NL
+ATL2006,2006,Atlanta Braves,NL
+BAL2006,2006,Baltimore Orioles,AL
+BOS2006,2006,Boston Red Sox,AL
+CHA2006,2006,Chicago White Sox,AL
+CHN2006,2006,Chicago Cubs,NL
+CIN2006,2006,Cincinnati Reds,NL
+CLE2006,2006,Cleveland Indians,AL
+COL2006,2006,Colorado Rockies,NL
+DET2006,2006,Detroit Tigers,AL
+FLO2006,2006,Florida Marlins,NL
+HOU2006,2006,Houston Astros,NL
+KCA2006,2006,Kansas City Royals,AL
+ANA2006,2006,Los Angeles Angels of Anaheim,AL
+LAN2006,2006,Los Angeles Dodgers,NL
+MIL2006,2006,Milwaukee Brewers,NL
+MIN2006,2006,Minnesota Twins,AL
+NYA2006,2006,New York Yankees,AL
+NYN2006,2006,New York Mets,NL
+OAK2006,2006,Oakland Athletics,AL
+PHI2006,2006,Philadelphia Phillies,NL
+PIT2006,2006,Pittsburgh Pirates,NL
+SDN2006,2006,San Diego Padres,NL
+SEA2006,2006,Seattle Mariners,AL
+SFN2006,2006,San Francisco Giants,NL
+SLN2006,2006,St. Louis Cardinals,NL
+TBA2006,2006,Tampa Bay Devil Rays,AL
+TEX2006,2006,Texas Rangers,AL
+TOR2006,2006,Toronto Blue Jays,AL
+WAS2006,2006,Washington Nationals,NL
+ARI2007,2007,Arizona Diamondbacks,NL
+ATL2007,2007,Atlanta Braves,NL
+BAL2007,2007,Baltimore Orioles,AL
+BOS2007,2007,Boston Red Sox,AL
+CHA2007,2007,Chicago White Sox,AL
+CHN2007,2007,Chicago Cubs,NL
+CIN2007,2007,Cincinnati Reds,NL
+CLE2007,2007,Cleveland Indians,AL
+COL2007,2007,Colorado Rockies,NL
+DET2007,2007,Detroit Tigers,AL
+FLO2007,2007,Florida Marlins,NL
+HOU2007,2007,Houston Astros,NL
+KCA2007,2007,Kansas City Royals,AL
+ANA2007,2007,Los Angeles Angels of Anaheim,AL
+LAN2007,2007,Los Angeles Dodgers,NL
+MIL2007,2007,Milwaukee Brewers,NL
+MIN2007,2007,Minnesota Twins,AL
+NYA2007,2007,New York Yankees,AL
+NYN2007,2007,New York Mets,NL
+OAK2007,2007,Oakland Athletics,AL
+PHI2007,2007,Philadelphia Phillies,NL
+PIT2007,2007,Pittsburgh Pirates,NL
+SDN2007,2007,San Diego Padres,NL
+SEA2007,2007,Seattle Mariners,AL
+SFN2007,2007,San Francisco Giants,NL
+SLN2007,2007,St. Louis Cardinals,NL
+TBA2007,2007,Tampa Bay Devil Rays,AL
+TEX2007,2007,Texas Rangers,AL
+TOR2007,2007,Toronto Blue Jays,AL
+WAS2007,2007,Washington Nationals,NL
+ARI2008,2008,Arizona Diamondbacks,NL
+ATL2008,2008,Atlanta Braves,NL
+BAL2008,2008,Baltimore Orioles,AL
+BOS2008,2008,Boston Red Sox,AL
+CHA2008,2008,Chicago White Sox,AL
+CHN2008,2008,Chicago Cubs,NL
+CIN2008,2008,Cincinnati Reds,NL
+CLE2008,2008,Cleveland Indians,AL
+COL2008,2008,Colorado Rockies,NL
+DET2008,2008,Detroit Tigers,AL
+FLO2008,2008,Florida Marlins,NL
+HOU2008,2008,Houston Astros,NL
+KCA2008,2008,Kansas City Royals,AL
+ANA2008,2008,Los Angeles Angels of Anaheim,AL
+LAN2008,2008,Los Angeles Dodgers,NL
+MIL2008,2008,Milwaukee Brewers,NL
+MIN2008,2008,Minnesota Twins,AL
+NYA2008,2008,New York Yankees,AL
+NYN2008,2008,New York Mets,NL
+OAK2008,2008,Oakland Athletics,AL
+PHI2008,2008,Philadelphia Phillies,NL
+PIT2008,2008,Pittsburgh Pirates,NL
+SDN2008,2008,San Diego Padres,NL
+SEA2008,2008,Seattle Mariners,AL
+SFN2008,2008,San Francisco Giants,NL
+SLN2008,2008,St. Louis Cardinals,NL
+TBA2008,2008,Tampa Bay Rays,AL
+TEX2008,2008,Texas Rangers,AL
+TOR2008,2008,Toronto Blue Jays,AL
+WAS2008,2008,Washington Nationals,NL
+ARI2009,2009,Arizona Diamondbacks,NL
+ATL2009,2009,Atlanta Braves,NL
+BAL2009,2009,Baltimore Orioles,AL
+BOS2009,2009,Boston Red Sox,AL
+CHA2009,2009,Chicago White Sox,AL
+CHN2009,2009,Chicago Cubs,NL
+CIN2009,2009,Cincinnati Reds,NL
+CLE2009,2009,Cleveland Indians,AL
+COL2009,2009,Colorado Rockies,NL
+DET2009,2009,Detroit Tigers,AL
+FLO2009,2009,Florida Marlins,NL
+HOU2009,2009,Houston Astros,NL
+KCA2009,2009,Kansas City Royals,AL
+ANA2009,2009,Los Angeles Angels of Anaheim,AL
+LAN2009,2009,Los Angeles Dodgers,NL
+MIL2009,2009,Milwaukee Brewers,NL
+MIN2009,2009,Minnesota Twins,AL
+NYA2009,2009,New York Yankees,AL
+NYN2009,2009,New York Mets,NL
+OAK2009,2009,Oakland Athletics,AL
+PHI2009,2009,Philadelphia Phillies,NL
+PIT2009,2009,Pittsburgh Pirates,NL
+SDN2009,2009,San Diego Padres,NL
+SEA2009,2009,Seattle Mariners,AL
+SFN2009,2009,San Francisco Giants,NL
+SLN2009,2009,St. Louis Cardinals,NL
+TBA2009,2009,Tampa Bay Rays,AL
+TEX2009,2009,Texas Rangers,AL
+TOR2009,2009,Toronto Blue Jays,AL
+WAS2009,2009,Washington Nationals,NL
+ARI2010,2010,Arizona Diamondbacks,NL
+ATL2010,2010,Atlanta Braves,NL
+BAL2010,2010,Baltimore Orioles,AL
+BOS2010,2010,Boston Red Sox,AL
+CHA2010,2010,Chicago White Sox,AL
+CHN2010,2010,Chicago Cubs,NL
+CIN2010,2010,Cincinnati Reds,NL
+CLE2010,2010,Cleveland Indians,AL
+COL2010,2010,Colorado Rockies,NL
+DET2010,2010,Detroit Tigers,AL
+FLO2010,2010,Florida Marlins,NL
+HOU2010,2010,Houston Astros,NL
+KCA2010,2010,Kansas City Royals,AL
+ANA2010,2010,Los Angeles Angels of Anaheim,AL
+LAN2010,2010,Los Angeles Dodgers,NL
+MIL2010,2010,Milwaukee Brewers,NL
+MIN2010,2010,Minnesota Twins,AL
+NYA2010,2010,New York Yankees,AL
+NYN2010,2010,New York Mets,NL
+OAK2010,2010,Oakland Athletics,AL
+PHI2010,2010,Philadelphia Phillies,NL
+PIT2010,2010,Pittsburgh Pirates,NL
+SDN2010,2010,San Diego Padres,NL
+SEA2010,2010,Seattle Mariners,AL
+SFN2010,2010,San Francisco Giants,NL
+SLN2010,2010,St. Louis Cardinals,NL
+TBA2010,2010,Tampa Bay Rays,AL
+TEX2010,2010,Texas Rangers,AL
+TOR2010,2010,Toronto Blue Jays,AL
+WAS2010,2010,Washington Nationals,NL
+ARI2011,2011,Arizona Diamondbacks,NL
+ATL2011,2011,Atlanta Braves,NL
+BAL2011,2011,Baltimore Orioles,AL
+BOS2011,2011,Boston Red Sox,AL
+CHA2011,2011,Chicago White Sox,AL
+CHN2011,2011,Chicago Cubs,NL
+CIN2011,2011,Cincinnati Reds,NL
+CLE2011,2011,Cleveland Indians,AL
+COL2011,2011,Colorado Rockies,NL
+DET2011,2011,Detroit Tigers,AL
+FLO2011,2011,Florida Marlins,NL
+HOU2011,2011,Houston Astros,NL
+KCA2011,2011,Kansas City Royals,AL
+ANA2011,2011,Los Angeles Angels of Anaheim,AL
+LAN2011,2011,Los Angeles Dodgers,NL
+MIL2011,2011,Milwaukee Brewers,NL
+MIN2011,2011,Minnesota Twins,AL
+NYA2011,2011,New York Yankees,AL
+NYN2011,2011,New York Mets,NL
+OAK2011,2011,Oakland Athletics,AL
+PHI2011,2011,Philadelphia Phillies,NL
+PIT2011,2011,Pittsburgh Pirates,NL
+SDN2011,2011,San Diego Padres,NL
+SEA2011,2011,Seattle Mariners,AL
+SFN2011,2011,San Francisco Giants,NL
+SLN2011,2011,St. Louis Cardinals,NL
+TBA2011,2011,Tampa Bay Rays,AL
+TEX2011,2011,Texas Rangers,AL
+TOR2011,2011,Toronto Blue Jays,AL
+WAS2011,2011,Washington Nationals,NL
+ARI2012,2012,Arizona Diamondbacks,NL
+ATL2012,2012,Atlanta Braves,NL
+BAL2012,2012,Baltimore Orioles,AL
+BOS2012,2012,Boston Red Sox,AL
+CHA2012,2012,Chicago White Sox,AL
+CHN2012,2012,Chicago Cubs,NL
+CIN2012,2012,Cincinnati Reds,NL
+CLE2012,2012,Cleveland Indians,AL
+COL2012,2012,Colorado Rockies,NL
+DET2012,2012,Detroit Tigers,AL
+HOU2012,2012,Houston Astros,NL
+KCA2012,2012,Kansas City Royals,AL
+ANA2012,2012,Los Angeles Angels of Anaheim,AL
+LAN2012,2012,Los Angeles Dodgers,NL
+MIA2012,2012,Miami Marlins,NL
+MIL2012,2012,Milwaukee Brewers,NL
+MIN2012,2012,Minnesota Twins,AL
+NYA2012,2012,New York Yankees,AL
+NYN2012,2012,New York Mets,NL
+OAK2012,2012,Oakland Athletics,AL
+PHI2012,2012,Philadelphia Phillies,NL
+PIT2012,2012,Pittsburgh Pirates,NL
+SDN2012,2012,San Diego Padres,NL
+SEA2012,2012,Seattle Mariners,AL
+SFN2012,2012,San Francisco Giants,NL
+SLN2012,2012,St. Louis Cardinals,NL
+TBA2012,2012,Tampa Bay Rays,AL
+TEX2012,2012,Texas Rangers,AL
+TOR2012,2012,Toronto Blue Jays,AL
+WAS2012,2012,Washington Nationals,NL
+ARI2013,2013,Arizona Diamondbacks,NL
+ATL2013,2013,Atlanta Braves,NL
+BAL2013,2013,Baltimore Orioles,AL
+BOS2013,2013,Boston Red Sox,AL
+CHA2013,2013,Chicago White Sox,AL
+CHN2013,2013,Chicago Cubs,NL
+CIN2013,2013,Cincinnati Reds,NL
+CLE2013,2013,Cleveland Indians,AL
+COL2013,2013,Colorado Rockies,NL
+DET2013,2013,Detroit Tigers,AL
+HOU2013,2013,Houston Astros,AL
+KCA2013,2013,Kansas City Royals,AL
+ANA2013,2013,Los Angeles Angels of Anaheim,AL
+LAN2013,2013,Los Angeles Dodgers,NL
+MIA2013,2013,Miami Marlins,NL
+MIL2013,2013,Milwaukee Brewers,NL
+MIN2013,2013,Minnesota Twins,AL
+NYA2013,2013,New York Yankees,AL
+NYN2013,2013,New York Mets,NL
+OAK2013,2013,Oakland Athletics,AL
+PHI2013,2013,Philadelphia Phillies,NL
+PIT2013,2013,Pittsburgh Pirates,NL
+SDN2013,2013,San Diego Padres,NL
+SEA2013,2013,Seattle Mariners,AL
+SFN2013,2013,San Francisco Giants,NL
+SLN2013,2013,St. Louis Cardinals,NL
+TBA2013,2013,Tampa Bay Rays,AL
+TEX2013,2013,Texas Rangers,AL
+TOR2013,2013,Toronto Blue Jays,AL
+WAS2013,2013,Washington Nationals,NL
+ARI2014,2014,Arizona Diamondbacks,NL
+ATL2014,2014,Atlanta Braves,NL
+BAL2014,2014,Baltimore Orioles,AL
+BOS2014,2014,Boston Red Sox,AL
+CHA2014,2014,Chicago White Sox,AL
+CHN2014,2014,Chicago Cubs,NL
+CIN2014,2014,Cincinnati Reds,NL
+CLE2014,2014,Cleveland Indians,AL
+COL2014,2014,Colorado Rockies,NL
+DET2014,2014,Detroit Tigers,AL
+HOU2014,2014,Houston Astros,AL
+KCA2014,2014,Kansas City Royals,AL
+ANA2014,2014,Los Angeles Angels of Anaheim,AL
+LAN2014,2014,Los Angeles Dodgers,NL
+MIA2014,2014,Miami Marlins,NL
+MIL2014,2014,Milwaukee Brewers,NL
+MIN2014,2014,Minnesota Twins,AL
+NYA2014,2014,New York Yankees,AL
+NYN2014,2014,New York Mets,NL
+OAK2014,2014,Oakland Athletics,AL
+PHI2014,2014,Philadelphia Phillies,NL
+PIT2014,2014,Pittsburgh Pirates,NL
+SDN2014,2014,San Diego Padres,NL
+SEA2014,2014,Seattle Mariners,AL
+SFN2014,2014,San Francisco Giants,NL
+SLN2014,2014,St. Louis Cardinals,NL
+TBA2014,2014,Tampa Bay Rays,AL
+TEX2014,2014,Texas Rangers,AL
+TOR2014,2014,Toronto Blue Jays,AL
+WAS2014,2014,Washington Nationals,NL
+ARI2015,2015,Arizona Diamondbacks,NL
+ATL2015,2015,Atlanta Braves,NL
+BAL2015,2015,Baltimore Orioles,AL
+BOS2015,2015,Boston Red Sox,AL
+CHA2015,2015,Chicago White Sox,AL
+CHN2015,2015,Chicago Cubs,NL
+CIN2015,2015,Cincinnati Reds,NL
+CLE2015,2015,Cleveland Indians,AL
+COL2015,2015,Colorado Rockies,NL
+DET2015,2015,Detroit Tigers,AL
+HOU2015,2015,Houston Astros,AL
+KCA2015,2015,Kansas City Royals,AL
+ANA2015,2015,Los Angeles Angels of Anaheim,AL
+LAN2015,2015,Los Angeles Dodgers,NL
+MIA2015,2015,Miami Marlins,NL
+MIL2015,2015,Milwaukee Brewers,NL
+MIN2015,2015,Minnesota Twins,AL
+NYA2015,2015,New York Yankees,AL
+NYN2015,2015,New York Mets,NL
+OAK2015,2015,Oakland Athletics,AL
+PHI2015,2015,Philadelphia Phillies,NL
+PIT2015,2015,Pittsburgh Pirates,NL
+SDN2015,2015,San Diego Padres,NL
+SEA2015,2015,Seattle Mariners,AL
+SFN2015,2015,San Francisco Giants,NL
+SLN2015,2015,St. Louis Cardinals,NL
+TBA2015,2015,Tampa Bay Rays,AL
+TEX2015,2015,Texas Rangers,AL
+TOR2015,2015,Toronto Blue Jays,AL
+WAS2015,2015,Washington Nationals,NL
+ARI2016,2016,Arizona Diamondbacks,NL
+ATL2016,2016,Atlanta Braves,NL
+BAL2016,2016,Baltimore Orioles,AL
+BOS2016,2016,Boston Red Sox,AL
+CHA2016,2016,Chicago White Sox,AL
+CHN2016,2016,Chicago Cubs,NL
+CIN2016,2016,Cincinnati Reds,NL
+CLE2016,2016,Cleveland Indians,AL
+COL2016,2016,Colorado Rockies,NL
+DET2016,2016,Detroit Tigers,AL
+HOU2016,2016,Houston Astros,AL
+KCA2016,2016,Kansas City Royals,AL
+ANA2016,2016,Los Angeles Angels of Anaheim,AL
+LAN2016,2016,Los Angeles Dodgers,NL
+MIA2016,2016,Miami Marlins,NL
+MIL2016,2016,Milwaukee Brewers,NL
+MIN2016,2016,Minnesota Twins,AL
+NYA2016,2016,New York Yankees,AL
+NYN2016,2016,New York Mets,NL
+OAK2016,2016,Oakland Athletics,AL
+PHI2016,2016,Philadelphia Phillies,NL
+PIT2016,2016,Pittsburgh Pirates,NL
+SDN2016,2016,San Diego Padres,NL
+SEA2016,2016,Seattle Mariners,AL
+SFN2016,2016,San Francisco Giants,NL
+SLN2016,2016,St. Louis Cardinals,NL
+TBA2016,2016,Tampa Bay Rays,AL
+TEX2016,2016,Texas Rangers,AL
+TOR2016,2016,Toronto Blue Jays,AL
+WAS2016,2016,Washington Nationals,NL
+ARI2017,2017,Arizona Diamondbacks,NL
+ATL2017,2017,Atlanta Braves,NL
+BAL2017,2017,Baltimore Orioles,AL
+BOS2017,2017,Boston Red Sox,AL
+CHA2017,2017,Chicago White Sox,AL
+CHN2017,2017,Chicago Cubs,NL
+CIN2017,2017,Cincinnati Reds,NL
+CLE2017,2017,Cleveland Indians,AL
+COL2017,2017,Colorado Rockies,NL
+DET2017,2017,Detroit Tigers,AL
+HOU2017,2017,Houston Astros,AL
+KCA2017,2017,Kansas City Royals,AL
+ANA2017,2017,Los Angeles Angels of Anaheim,AL
+LAN2017,2017,Los Angeles Dodgers,NL
+MIA2017,2017,Miami Marlins,NL
+MIL2017,2017,Milwaukee Brewers,NL
+MIN2017,2017,Minnesota Twins,AL
+NYA2017,2017,New York Yankees,AL
+NYN2017,2017,New York Mets,NL
+OAK2017,2017,Oakland Athletics,AL
+PHI2017,2017,Philadelphia Phillies,NL
+PIT2017,2017,Pittsburgh Pirates,NL
+SDN2017,2017,San Diego Padres,NL
+SEA2017,2017,Seattle Mariners,AL
+SFN2017,2017,San Francisco Giants,NL
+SLN2017,2017,St. Louis Cardinals,NL
+TBA2017,2017,Tampa Bay Rays,AL
+TEX2017,2017,Texas Rangers,AL
+TOR2017,2017,Toronto Blue Jays,AL
+WAS2017,2017,Washington Nationals,NL
+ARI2018,2018,Arizona Diamondbacks,NL
+ATL2018,2018,Atlanta Braves,NL
+BAL2018,2018,Baltimore Orioles,AL
+BOS2018,2018,Boston Red Sox,AL
+CHA2018,2018,Chicago White Sox,AL
+CHN2018,2018,Chicago Cubs,NL
+CIN2018,2018,Cincinnati Reds,NL
+CLE2018,2018,Cleveland Indians,AL
+COL2018,2018,Colorado Rockies,NL
+DET2018,2018,Detroit Tigers,AL
+HOU2018,2018,Houston Astros,AL
+KCA2018,2018,Kansas City Royals,AL
+ANA2018,2018,Los Angeles Angels of Anaheim,AL
+LAN2018,2018,Los Angeles Dodgers,NL
+MIA2018,2018,Miami Marlins,NL
+MIL2018,2018,Milwaukee Brewers,NL
+MIN2018,2018,Minnesota Twins,AL
+NYA2018,2018,New York Yankees,AL
+NYN2018,2018,New York Mets,NL
+OAK2018,2018,Oakland Athletics,AL
+PHI2018,2018,Philadelphia Phillies,NL
+PIT2018,2018,Pittsburgh Pirates,NL
+SDN2018,2018,San Diego Padres,NL
+SEA2018,2018,Seattle Mariners,AL
+SFN2018,2018,San Francisco Giants,NL
+SLN2018,2018,St. Louis Cardinals,NL
+TBA2018,2018,Tampa Bay Rays,AL
+TEX2018,2018,Texas Rangers,AL
+TOR2018,2018,Toronto Blue Jays,AL
+WAS2018,2018,Washington Nationals,NL
+ARI2019,2019,Arizona Diamondbacks,NL
+ATL2019,2019,Atlanta Braves,NL
+BAL2019,2019,Baltimore Orioles,AL
+BOS2019,2019,Boston Red Sox,AL
+CHA2019,2019,Chicago White Sox,AL
+CHN2019,2019,Chicago Cubs,NL
+CIN2019,2019,Cincinnati Reds,NL
+CLE2019,2019,Cleveland Indians,AL
+COL2019,2019,Colorado Rockies,NL
+DET2019,2019,Detroit Tigers,AL
+HOU2019,2019,Houston Astros,AL
+KCA2019,2019,Kansas City Royals,AL
+ANA2019,2019,Los Angeles Angels of Anaheim,AL
+LAN2019,2019,Los Angeles Dodgers,NL
+MIA2019,2019,Miami Marlins,NL
+MIL2019,2019,Milwaukee Brewers,NL
+MIN2019,2019,Minnesota Twins,AL
+NYA2019,2019,New York Yankees,AL
+NYN2019,2019,New York Mets,NL
+OAK2019,2019,Oakland Athletics,AL
+PHI2019,2019,Philadelphia Phillies,NL
+PIT2019,2019,Pittsburgh Pirates,NL
+SDN2019,2019,San Diego Padres,NL
+SEA2019,2019,Seattle Mariners,AL
+SFN2019,2019,San Francisco Giants,NL
+SLN2019,2019,St. Louis Cardinals,NL
+TBA2019,2019,Tampa Bay Rays,AL
+TEX2019,2019,Texas Rangers,AL
+TOR2019,2019,Toronto Blue Jays,AL
+WAS2019,2019,Washington Nationals,NL
+ARI2020,2020,Arizona Diamondbacks,NL
+ATL2020,2020,Atlanta Braves,NL
+BAL2020,2020,Baltimore Orioles,AL
+BOS2020,2020,Boston Red Sox,AL
+CHA2020,2020,Chicago White Sox,AL
+CHN2020,2020,Chicago Cubs,NL
+CIN2020,2020,Cincinnati Reds,NL
+CLE2020,2020,Cleveland Indians,AL
+COL2020,2020,Colorado Rockies,NL
+DET2020,2020,Detroit Tigers,AL
+HOU2020,2020,Houston Astros,AL
+KCA2020,2020,Kansas City Royals,AL
+ANA2020,2020,Los Angeles Angels of Anaheim,AL
+LAN2020,2020,Los Angeles Dodgers,NL
+MIA2020,2020,Miami Marlins,NL
+MIL2020,2020,Milwaukee Brewers,NL
+MIN2020,2020,Minnesota Twins,AL
+NYA2020,2020,New York Yankees,AL
+NYN2020,2020,New York Mets,NL
+OAK2020,2020,Oakland Athletics,AL
+PHI2020,2020,Philadelphia Phillies,NL
+PIT2020,2020,Pittsburgh Pirates,NL
+SDN2020,2020,San Diego Padres,NL
+SEA2020,2020,Seattle Mariners,AL
+SFN2020,2020,San Francisco Giants,NL
+SLN2020,2020,St. Louis Cardinals,NL
+TBA2020,2020,Tampa Bay Rays,AL
+TEX2020,2020,Texas Rangers,AL
+TOR2020,2020,Toronto Blue Jays,AL
+WAS2020,2020,Washington Nationals,NL
