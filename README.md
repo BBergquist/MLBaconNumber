@@ -18,7 +18,7 @@ This concept is the same as [Erdős numbers](https://en.wikipedia.org/wiki/Erd%C
 
 | Column Name | Description |
 | --- | --- |
-| player_id | This id matches the retrosheet.org id. You can easily lookup players using [Google](). |
+| player_id | This id is defined by retrosheet.org. It is guaranteed to uniquely identify a player. |
 | last_name | The player's last name |
 | first_name | The player's first name |
 | bacon_number | The player's bacon_number |
@@ -26,6 +26,8 @@ This concept is the same as [Erdős numbers](https://en.wikipedia.org/wiki/Erd%C
 | v0 | v0 stands for vertex 0. This is always the same as player_id. |
 | e1 | e0 stands for edge 1. This is the team where the players in v0 and v1 played together. |
 | v1 | v1 (vertex 1) is the next player in the chain (e.g., Tom Glavine). This is also their retrosheet id. |
+
+Unfortunately, I haven't found a good way to search Retrosheets or Google for looking up a player, so the easiest method might be using excel to filter the MLBacon number CSV to find the player's first and last name.
 
 The vertex and edge terms are because I built a [graph](https://en.wikipedia.org/wiki/Graph_(discrete_mathematics)) of all players and their teammates to find the shortest path to the first game. If you are more interested in the graphs, see the "How it works" section.
 
