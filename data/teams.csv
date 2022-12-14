@@ -81,6 +81,7 @@ BFN1880,1880,Buffalo Bisons,NL
 BSN1880,1880,Boston Red Caps,NL
 CHN1880,1880,Chicago White Stockings,NL
 CL21880,1880,Cleveland Blues,NL
+CN11880,1880,Cincinnati Reds,NL
 CN41880,1880,Cincinnati Reds,NL
 PRO1880,1880,Providence Grays,NL
 TRN1880,1880,Troy Trojans,NL
@@ -95,6 +96,7 @@ TRN1881,1881,Troy Trojans,NL
 WOR1881,1881,Worcester Ruby Legs,NL
 BFN1882,1882,Buffalo Bisons,NL
 BL51882,1882,Baltimore Orioles,AA
+BL21882,1882,Baltimore Orioles,AA
 BSN1882,1882,Boston Red Caps,NL
 CHN1882,1882,Chicago White Stockings,NL
 CL21882,1882,Cleveland Blues,NL
@@ -2954,3 +2956,33 @@ TBA2020,2020,Tampa Bay Rays,AL
 TEX2020,2020,Texas Rangers,AL
 TOR2020,2020,Toronto Blue Jays,AL
 WAS2020,2020,Washington Nationals,NL
+ARI2021,2021,Arizona Diamondbacks,NL
+ATL2021,2021,Atlanta Braves,NL
+BAL2021,2021,Baltimore Orioles,AL
+BOS2021,2021,Boston Red Sox,AL
+CHA2021,2021,Chicago White Sox,AL
+CHN2021,2021,Chicago Cubs,NL
+CIN2021,2021,Cincinnati Reds,NL
+CLE2021,2021,Cleveland Indians,AL
+COL2021,2021,Colorado Rockies,NL
+DET2021,2021,Detroit Tigers,AL
+HOU2021,2021,Houston Astros,AL
+KCA2021,2021,Kansas City Royals,AL
+ANA2021,2021,Los Angeles Angels of Anaheim,AL
+LAN2021,2021,Los Angeles Dodgers,NL
+MIA2021,2021,Miami Marlins,NL
+MIL2021,2021,Milwaukee Brewers,NL
+MIN2021,2021,Minnesota Twins,AL
+NYA2021,2021,New York Yankees,AL
+NYN2021,2021,New York Mets,NL
+OAK2021,2021,Oakland Athletics,AL
+PHI2021,2021,Philadelphia Phillies,NL
+PIT2021,2021,Pittsburgh Pirates,NL
+SDN2021,2021,San Diego Padres,NL
+SEA2021,2021,Seattle Mariners,AL
+SFN2021,2021,San Francisco Giants,NL
+SLN2021,2021,St. Louis Cardinals,NL
+TBA2021,2021,Tampa Bay Rays,AL
+TEX2021,2021,Texas Rangers,AL
+TOR2021,2021,Toronto Blue Jays,AL
+WAS2021,2021,Washington Nationals,NL
