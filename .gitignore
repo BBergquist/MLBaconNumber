@@ -1,3 +1,6 @@
+# Extra MLBaconNumber data files
+data/Rosters/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -130,3 +133,4 @@ dmypy.json
 
 # VS Code
 /.vscode
+*.code-workspace
