@@ -30,4 +30,5 @@ roster_paths = os.listdir(ROSTERS_DIR)
 with open(ALL_ROSTERS, 'w') as out:
     out.write(','.join(COLUMN_NAMES) + '\n')
     for roster_path in roster_paths:
-        append_roster(out, roster_path)
+        if roster_path.endswith(".ROS"):
+            append_roster(out, roster_path)
